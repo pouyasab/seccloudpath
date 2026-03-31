@@ -35,7 +35,9 @@
       "scaleTitle": "Scalable foundation",
       "scaleDesc": "Build an IT setup that supports growth, new hires, and new locations—without rework.",
       "monitoringTitle": "Ongoing follow-up",
-      "monitoringDesc": "Keep security and systems visible over time—with alerts, light routines, and steady upkeep of policy and compliance."
+      "monitoringDesc": "Keep security and systems visible over time—with alerts, light routines, and steady upkeep of policy and compliance.",
+      "standardsTitle": "Clear standards",
+      "standardsDesc": "Set shared practices for access, devices, and setup—simpler operations and fewer deviations over time."
     },
     "whyTitle": "Why structure matters",
     "whyLead": "A structured setup turns IT from “something that happens” into something you can manage with confidence.",

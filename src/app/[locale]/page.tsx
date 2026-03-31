@@ -293,6 +293,13 @@ export default async function HomePage({
                 icon={<FeatureIcon icon={Activity} />}
               />
             </ScrollReveal>
+            <ScrollReveal delay={350}>
+              <ValueCard
+                title={m.home.value.standardsTitle}
+                description={m.home.value.standardsDesc}
+                icon={<FeatureIcon icon={CheckCircle2} />}
+              />
+            </ScrollReveal>
           </div>
         </Container>
       </Section>

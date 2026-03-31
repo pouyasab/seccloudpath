@@ -35,7 +35,9 @@
       "scaleTitle": "Skalerbart grunnlag",
       "scaleDesc": "Bygg et IT-oppsett som støtter vekst, nye ansatte og nye lokasjoner – uten omarbeid.",
       "monitoringTitle": "Kontinuerlig oppfølging",
-      "monitoringDesc": "Hold sikkerhet og systemer under oppsikt over tid – med varsler, enkle rutiner og jevn vedlikehold av policy og compliance."
+      "monitoringDesc": "Hold sikkerhet og systemer under oppsikt over tid – med varsler, enkle rutiner og jevn vedlikehold av policy og compliance.",
+      "standardsTitle": "Tydelige standarder",
+      "standardsDesc": "Etabler felles praksis for tilgang, enheter og oppsett – enklere drift og færre avvik over tid."
     },
     "whyTitle": "Hvorfor struktur betyr noe",
     "whyLead": "Med en strukturert IT-plattform går IT fra “noe som bare skjer” til noe dere kan styre med trygghet.",
