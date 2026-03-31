@@ -67,6 +67,16 @@ If `git` is not recognized, install Git (see Prerequisites) and reopen the termi
 
 After ~1–2 minutes you get a URL like `https://seccloudpath.vercel.app`.
 
+### Contact form email setup (required)
+
+To make the contact form send emails, add these **Environment Variables** in Vercel:
+
+- `RESEND_API_KEY` = your API key from Resend
+- `CONTACT_TO_EMAIL` = `post@seccloudpath.com`
+- `CONTACT_FROM_EMAIL` = sender address (example: `SecCloudPath Kontakt <noreply@yourdomain.com>`)
+
+Then redeploy. Without `RESEND_API_KEY`, the form cannot deliver emails.
+
 ---
 
 ## Step 4 — Custom domain (optional)

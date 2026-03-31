@@ -17,8 +17,11 @@ const copy = {
     emailPh: "you@company.no",
     messagePh: "A short description of what you’d like help with…",
     submit: "Let’s talk",
+    sending: "Sending...",
     received: "Message received",
+    failed: "Could not send message",
     thanks: "Thanks — we’ll get back to you soon.",
+    retry: "Please try again in a moment or email us directly.",
     responseTime: "We typically respond within 1-2 business days."
   },
   no: {
@@ -30,8 +33,11 @@ const copy = {
     emailPh: "deg@firma.no",
     messagePh: "Kort beskrivelse av hva dere ønsker hjelp med…",
     submit: "La oss ta en prat",
+    sending: "Sender...",
     received: "Melding mottatt",
+    failed: "Kunne ikke sende melding",
     thanks: "Takk — vi tar kontakt snart.",
+    retry: "Prøv igjen om litt, eller send e-post direkte.",
     responseTime: "Vi svarer vanligvis innen 1-2 virkedager."
   }
 } as const;
@@ -41,12 +47,39 @@ export function ContactForm({ locale = "no" }: { locale?: Locale }) {
   const emailId = useId();
   const messageId = useId();
 
-  const [status, setStatus] = useState<"idle" | "sent">("idle");
+  const [status, setStatus] = useState<"idle" | "sending" | "sent" | "error">(
+    "idle"
+  );
   const c = copy[locale];
 
-  function onSubmit(e: React.FormEvent<HTMLFormElement>) {
+  async function onSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
-    setStatus("sent");
+    setStatus("sending");
+
+    const form = e.currentTarget;
+    const formData = new FormData(form);
+    const payload = {
+      name: String(formData.get("name") ?? ""),
+      email: String(formData.get("email") ?? ""),
+      message: String(formData.get("message") ?? "")
+    };
+
+    try {
+      const res = await fetch("/api/contact", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload)
+      });
+
+      if (!res.ok) {
+        throw new Error("Failed to submit contact form");
+      }
+
+      form.reset();
+      setStatus("sent");
+    } catch {
+      setStatus("error");
+    }
   }
 
   return (
@@ -96,13 +129,24 @@ export function ContactForm({ locale = "no" }: { locale?: Locale }) {
 
       <button
         type="submit"
+        disabled={status === "sending"}
         className="inline-flex w-full items-center justify-center rounded-xl bg-blue-600 px-5 py-2.5 text-[15px] font-semibold tracking-tight text-white shadow-md ring-1 ring-blue-700/20 transition duration-200 hover:-translate-y-px hover:bg-blue-700 hover:shadow-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-600 focus-visible:ring-offset-2 focus-visible:ring-offset-white active:translate-y-px sm:w-auto"
       >
-        {status === "sent" ? c.received : c.submit}
+        {status === "sending"
+          ? c.sending
+          : status === "sent"
+            ? c.received
+            : status === "error"
+              ? c.failed
+              : c.submit}
       </button>
 
       <p className="text-xs text-slate-600">
-        {status === "sent" ? c.thanks : c.responseTime}
+        {status === "sent"
+          ? c.thanks
+          : status === "error"
+            ? c.retry
+            : c.responseTime}
       </p>
     </form>
   );
