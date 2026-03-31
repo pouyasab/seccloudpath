@@ -149,11 +149,9 @@ export function ContactForm({ locale = "no" }: { locale?: Locale }) {
       >
         {status === "sending"
           ? c.sending
-          : status === "sent"
-            ? c.received
-            : status === "error"
-              ? c.failed
-              : c.submit}
+          : status === "error"
+            ? c.failed
+            : c.submit}
       </button>
 
       <p className="text-xs text-slate-600">
