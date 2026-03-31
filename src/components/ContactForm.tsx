@@ -20,7 +20,8 @@ const copy = {
     sending: "Sending...",
     received: "Message received",
     failed: "Could not send message",
-    thanks: "Thanks — we’ll get back to you soon.",
+    thanksTitle: "Thank you! Your inquiry has been received.",
+    thanksBody: "We will contact you shortly.",
     retry: "Please try again in a moment or email us directly.",
     responseTime: "We typically respond within 1-2 business days."
   },
@@ -36,7 +37,8 @@ const copy = {
     sending: "Sender...",
     received: "Melding mottatt",
     failed: "Kunne ikke sende melding",
-    thanks: "Takk — vi tar kontakt snart.",
+    thanksTitle: "Takk! din henvendelse er mottatt",
+    thanksBody: "Vi tar kontakt snart.",
     retry: "Prøv igjen om litt, eller send e-post direkte.",
     responseTime: "Vi svarer vanligvis innen 1-2 virkedager."
   }
@@ -80,6 +82,19 @@ export function ContactForm({ locale = "no" }: { locale?: Locale }) {
     } catch {
       setStatus("error");
     }
+  }
+
+  if (status === "sent") {
+    return (
+      <div
+        className="rounded-2xl border border-emerald-200 bg-emerald-50/60 p-6 text-slate-900"
+        role="status"
+        aria-live="polite"
+      >
+        <p className="text-lg font-semibold tracking-tight">{c.thanksTitle}</p>
+        <p className="mt-2 text-sm text-slate-700">{c.thanksBody}</p>
+      </div>
+    );
   }
 
   return (
@@ -142,11 +157,7 @@ export function ContactForm({ locale = "no" }: { locale?: Locale }) {
       </button>
 
       <p className="text-xs text-slate-600">
-        {status === "sent"
-          ? c.thanks
-          : status === "error"
-            ? c.retry
-            : c.responseTime}
+        {status === "error" ? c.retry : c.responseTime}
       </p>
     </form>
   );
