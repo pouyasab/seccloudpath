@@ -1,0 +1,143 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "common": {
+    "companyBadge": "IT advisory for SMBs in Norway",
+    "contactUs": "Contact us",
+    "viewServices": "View services",
+    "getInTouch": "Get in touch",
+    "pagesTitle": "Pages",
+    "contactTitle": "Contact"
+  },
+  "home": {
+    "heroTitle": "Structure, Security and Control in Your IT Environment",
+    "heroSubtitle": "We help small and medium-sized businesses gain control over users, devices, and data—with simple, secure, scalable solutions you can build on, and room for ongoing follow-up on risk and security.",
+    "valueTitle": "What you gain",
+    "foundationTitle": "Support from the very beginning",
+    "foundationBody": "SecCloudPath can also support businesses from day one by setting up practical digital basics in a secure and structured way.",
+    "foundationPoints": [
+      "Website setup",
+      "Business account setup",
+      "Microsoft 365 setup",
+      "A secure and structured digital foundation"
+    ],
+    "value": {
+      "devicesTitle": "Control over devices",
+      "devicesDesc": "See what’s in your environment and manage PCs, laptops, and mobile devices in a consistent way.",
+      "securityTitle": "Stronger security",
+      "securityDesc": "Use modern security practices that reduce risk without slowing down daily work.",
+      "usersTitle": "Efficient user management",
+      "usersDesc": "Make onboarding, access changes, and offboarding predictable and easy to administer.",
+      "scaleTitle": "Scalable foundation",
+      "scaleDesc": "Build an IT setup that supports growth, new hires, and new locations—without rework.",
+      "monitoringTitle": "Ongoing follow-up",
+      "monitoringDesc": "Keep security and systems visible over time—with alerts, light routines, and steady upkeep of policy and compliance."
+    },
+    "whyTitle": "Why structure matters",
+    "whyLead": "A structured setup turns IT from “something that happens” into something you can manage with confidence.",
+    "whyBody": "When users, PCs, mobile devices, and security are managed as one system, you reduce risk and create a clear overview of who has access to what—and why. That also makes continuous follow-up easier, so gaps and changes don’t linger unnoticed.",
+    "whyPoints": {
+      "riskTitle": "Reduce risk",
+      "riskDesc": "Clear access rules and consistent device security.",
+      "timeTitle": "Save time",
+      "timeDesc": "Fewer manual tasks and fewer “special cases”.",
+      "controlTitle": "Improve control",
+      "controlDesc": "Better visibility, simpler audits, and predictable changes."
+    },
+    "ctaTitle": "Ready to improve structure and security?",
+    "ctaBody": "Get in touch for an informal conversation. We’ll help you map the current situation and suggest practical next steps."
+  },
+  "services": {
+    "badge": "For small and medium-sized businesses",
+    "title": "Services",
+    "intro": "SecCloudPath helps businesses build secure, structured, and manageable IT environments. The goal is simple: clearer access, safer devices, and less day-to-day friction.",
+    "ctaTitle": "Not sure where to start?",
+    "ctaBody": "We’ll help you identify the most valuable improvements and outline practical next steps.",
+    "items": {
+      "iamTitle": "Identity & Access Management (IAM)",
+      "iamDesc": "Make access predictable and secure—so the right people can work, without unnecessary risk.",
+      "iamBullets": [
+        "User lifecycle management",
+        "MFA and Conditional Access",
+        "Role-based access control",
+        "Secure access to systems and data"
+      ],
+      "mdmTitle": "Mobile Device Management (MDM)",
+      "mdmDesc": "Keep devices consistent, secure, and up to date—whether employees work from the office or on the move.",
+      "mdmBullets": [
+        "Management of PCs, laptops, and mobile devices",
+        "Device enrollment",
+        "Security policies",
+        "Compliance and updates"
+      ],
+      "msTitle": "Microsoft Platform",
+      "msDesc": "Get a structured setup across Microsoft 365 and security—optimized for daily work and long-term maintainability.",
+      "msBullets": [
+        "Microsoft 365",
+        "Intune",
+        "Entra ID",
+        "Security baselines",
+        "Optimization and best practices"
+      ],
+      "advisoryTitle": "General IT advisory for SMBs",
+      "advisoryDesc": "Practical guidance that fits your size, your needs, and your pace—focused on structure, security, and clarity.",
+      "advisoryBullets": [
+        "Practical guidance",
+        "Scalable solutions",
+        "Security and structure",
+        "Long-term IT foundation"
+      ],
+      "foundationTitle": "Digital Business Foundation",
+      "foundationDesc": "Get the essentials in place from the start with secure, structured support built for small and medium-sized businesses.",
+      "foundationBullets": [
+        "Website setup",
+        "Business account setup",
+        "Microsoft 365 setup",
+        "Core digital tools",
+        "Secure and structured startup support for SMBs"
+      ],
+      "securityMonitoringTitle": "Security and monitoring",
+      "securityMonitoringDesc": "Continuous follow-up on security and systems to detect and address risk early.",
+      "securityMonitoringBullets": [
+        "Monitoring of devices and users",
+        "Security alerts and follow-up",
+        "Foundational threat protection",
+        "Policy and compliance follow-up"
+      ]
+    }
+  },
+  "about": {
+    "badge": "IT advisory for SMBs in Norway",
+    "title": "About SecCloudPath",
+    "intro": "SecCloudPath helps businesses create secure, structured, and modern IT environments—focused on reducing complexity, improving security, and building a strong technical foundation for growth.",
+    "cardTitle": "A calm, practical partner",
+    "cardBody1": "We work with small and medium-sized businesses that want more control over users, devices, and data—without turning IT into a large, ongoing project.",
+    "cardBody2": "The result is an environment that is easier to manage day to day, more resilient to risk, and better prepared for change.",
+    "approachTitle": "Our approach",
+    "approachIntro": "We keep things clear and structured. Practical improvements first—then consistent security and scalable patterns that hold up over time.",
+    "pillars": {
+      "practicalTitle": "Practical solutions",
+      "practicalDesc": "Clear steps, minimal disruption, and outcomes that matter in daily work.",
+      "securityTitle": "Security",
+      "securityDesc": "Reduce risk with modern controls that support how people actually work.",
+      "structureTitle": "Structure",
+      "structureDesc": "Consistent standards for users, devices, and access—less complexity over time.",
+      "scaleTitle": "Scalability",
+      "scaleDesc": "A foundation that supports growth, onboarding, and new needs without rework."
+    },
+    "partnerTitle": "A reliable IT partner for SMBs",
+    "partnerBody1": "You get straightforward guidance, documentation you can rely on, and an IT environment built to be manageable—not fragile.",
+    "partnerBody2": "Whether you need to establish structure from scratch or improve an existing setup, we focus on what creates lasting value."
+  },
+  "contact": {
+    "badge": "Let’s talk about your IT needs",
+    "title": "Contact us",
+    "intro": "If you want a more secure and structured IT environment, we’d be happy to help. Send a message and we’ll get back to you for an informal conversation.",
+    "cardTitle": "Send a message"
+  }
+}
+

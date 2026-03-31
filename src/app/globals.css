@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #ffffff;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--bg);
+  color: #0f172a;
+}
+
+::selection {
+  background: rgba(37, 99, 235, 0.2);
+}
+
+@layer base {
+  body {
+    text-rendering: optimizeLegibility;
+  }
+
+  a {
+    -webkit-tap-highlight-color: transparent;
+  }
+}
+
+@layer components {
+  .scp-badge {
+    @apply inline-flex items-center gap-2 rounded-full border border-slate-200 bg-white px-3 py-1 text-xs font-semibold text-slate-700 shadow-sm;
+  }
+
+  .scp-surface {
+    @apply rounded-2xl border border-slate-200 bg-white shadow-card;
+  }
+
+  .scp-surface-accent {
+    @apply border border-slate-200/90 bg-gradient-to-br from-blue-50 via-slate-50 to-slate-100 shadow-card;
+  }
+
+  .scp-hero-shell {
+    @apply relative overflow-hidden rounded-[2rem] border border-slate-200/90 bg-white shadow-card-lg;
+  }
+
+  .scp-hero-glow {
+    @apply pointer-events-none absolute -right-24 top-0 h-[420px] w-[420px] rounded-full bg-blue-500/15 blur-3xl;
+  }
+
+  .scp-hero-grid {
+    @apply pointer-events-none absolute inset-0 opacity-[0.45] [background-image:linear-gradient(to_right,rgba(148,163,184,0.2)_1px,transparent_1px),linear-gradient(to_bottom,rgba(148,163,184,0.2)_1px,transparent_1px)] [background-size:48px_48px];
+  }
+
+  .scp-cta-strip {
+    @apply relative overflow-hidden rounded-[1.75rem] border border-white/10 bg-gradient-to-br from-ink-950 via-ink-900 to-slate-900 p-8 text-white shadow-card-lg;
+  }
+
+  .scp-cta-strip::before {
+    content: "";
+    @apply pointer-events-none absolute -right-24 -top-24 h-72 w-72 rounded-full bg-blue-600/25 blur-3xl;
+  }
+
+  .scp-trust {
+    @apply inline-flex items-center gap-2 rounded-full border border-slate-200 bg-white px-3 py-1 text-xs font-medium text-slate-700 shadow-sm;
+  }
+
+  /** Tinted panel for emphasis blocks (e.g. foundation content) */
+  .scp-highlight-panel {
+    @apply rounded-2xl border border-blue-200/70 bg-blue-50/90 p-4 shadow-card sm:p-5 md:p-6;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-fade-up {
+    animation: none !important;
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}
