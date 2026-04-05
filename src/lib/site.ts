@@ -1,7 +1,7 @@
 export const site = {
   name: "SecCloudPath",
   description:
-    "IT advisory for secure, structured and modern IT environments for SMBs in Norway.",
+    "Digital security and IT advisory: Microsoft Defender, device protection, secure collaboration, and structured Microsoft 365 for businesses in Norway.",
   email: "post@seccloudpath.com",
   phone: "+47 91790138"
 } as const;

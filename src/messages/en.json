@@ -6,7 +6,7 @@
     "contact": "Contact"
   },
   "common": {
-    "companyBadge": "IT advisory for SMBs in Norway",
+    "companyBadge": "Digital security and IT advisory for businesses in Norway",
     "contactUs": "Contact us",
     "viewServices": "View services",
     "getInTouch": "Get in touch",
@@ -14,132 +14,132 @@
     "contactTitle": "Contact"
   },
   "home": {
-    "heroTitle": "Structure, Security and Control in Your IT Environment",
-    "heroSubtitle": "We help small and medium-sized businesses gain control over users, devices, and data—with simple, secure, scalable solutions you can build on, and room for ongoing follow-up on risk and security.",
+    "heroTitle": "Digital security, structure, and control across your IT environment",
+    "heroSubtitle": "We help small and large organizations strengthen protection for users, devices, and data—with Microsoft Defender, robust device management, and secure digital collaboration. The aim is straightforward, auditable, scalable security with room for ongoing risk review and follow-up.",
     "valueTitle": "What you gain",
     "foundationTitle": "Support from the very beginning",
-    "foundationBody": "SecCloudPath can also support businesses from day one by setting up practical digital basics in a secure and structured way.",
+    "foundationBody": "SecCloudPath can also support businesses from day one by establishing digital foundations where security is built in from the start—not bolted on as an afterthought.",
     "foundationPoints": [
       "Website setup",
       "Business account setup",
-      "Microsoft 365 setup",
-      "A secure and structured digital foundation"
+      "Microsoft 365 setup with a security baseline",
+      "Endpoint protection and safe collaboration from day one"
     ],
     "value": {
-      "devicesTitle": "Control over devices",
-      "devicesDesc": "See what’s in your environment and manage PCs, laptops, and mobile devices in a consistent way.",
-      "securityTitle": "Stronger security",
-      "securityDesc": "Use modern security practices that reduce risk without slowing down daily work.",
-      "usersTitle": "Efficient user management",
-      "usersDesc": "Make onboarding, access changes, and offboarding predictable and easy to administer.",
-      "scaleTitle": "Scalable foundation",
-      "scaleDesc": "Build an IT setup that supports growth, new hires, and new locations—without rework.",
+      "devicesTitle": "Confidence for devices and endpoints",
+      "devicesDesc": "Strong protection for PCs, laptops, and mobile devices—with MDM, policies, and Microsoft Defender so devices stay updated, encrypted, and aligned with policy.",
+      "securityTitle": "Security that works as a system",
+      "securityDesc": "Identity, Defender, network, and data working together—modern controls that reduce risk without paralyzing day-to-day work.",
+      "usersTitle": "Users and access under control",
+      "usersDesc": "Make onboarding, access changes, and offboarding predictable: MFA, Conditional Access, and clear roles that support secure collaboration.",
+      "scaleTitle": "A scalable security foundation",
+      "scaleDesc": "Build IT and security that grows with the business—from small teams to larger organizations—without rebuilding everything from scratch.",
       "monitoringTitle": "Ongoing follow-up",
-      "monitoringDesc": "Keep security and systems visible over time—with alerts, light routines, and steady upkeep of policy and compliance.",
-      "standardsTitle": "Clear standards",
-      "standardsDesc": "Set shared practices for access, devices, and setup—simpler operations and fewer deviations over time."
+      "monitoringDesc": "Alerts, light routines, and steady upkeep of policy and compliance—so issues are caught early and documented.",
+      "standardsTitle": "Clear security standards",
+      "standardsDesc": "Shared practices for access, devices, collaboration, and setup—simpler operations, fewer deviations, and better compliance over time."
     },
-    "whyTitle": "Why structure matters",
-    "whyLead": "A structured setup turns IT from “something that happens” into something you can manage with confidence.",
-    "whyBody": "When users, PCs, mobile devices, and security are managed as one system, you reduce risk and create a clear overview of who has access to what—and why. That also makes continuous follow-up easier, so gaps and changes don’t linger unnoticed.",
+    "whyTitle": "Why a secure structure matters",
+    "whyLead": "When digital security is structured, IT becomes something you govern—not only react to when incidents occur.",
+    "whyBody": "With coordinated management of users, devices, Microsoft Defender, and collaboration surfaces, you reduce risk and gain clarity on who has access to what—and how data is shared. That makes it easier to collaborate safely and to follow up continuously so gaps and changes do not linger.",
     "whyPoints": {
-      "riskTitle": "Reduce risk",
-      "riskDesc": "Clear access rules and consistent device security.",
-      "timeTitle": "Save time",
-      "timeDesc": "Fewer manual tasks and fewer “special cases”.",
-      "controlTitle": "Improve control",
-      "controlDesc": "Better visibility, simpler audits, and predictable changes."
+      "riskTitle": "Lower risk",
+      "riskDesc": "Clear access rules, consistent endpoint security, and controlled sharing.",
+      "timeTitle": "More efficient operations",
+      "timeDesc": "Fewer manual exceptions and less time spent on insecure workarounds.",
+      "controlTitle": "Better control",
+      "controlDesc": "Visibility for leadership and operations, simpler audits, and more predictable change."
     },
-    "ctaTitle": "Ready to improve structure and security?",
-    "ctaBody": "Get in touch for an informal conversation. We’ll help you map the current situation and suggest practical next steps."
+    "ctaTitle": "Ready to strengthen digital security?",
+    "ctaBody": "Get in touch for an informal conversation. We will help you assess risk and propose concrete next steps—tailored to both small and large organizations."
   },
   "services": {
-    "badge": "For small and medium-sized businesses",
+    "badge": "For small and large businesses",
     "title": "Services",
-    "intro": "SecCloudPath helps businesses build secure, structured, and manageable IT environments. The goal is simple: clearer access, safer devices, and less day-to-day friction.",
+    "intro": "SecCloudPath helps organizations build auditable, secure IT environments—from Microsoft Defender and device management to secure digital collaboration and general advisory on digital security. The goal is clear protection for data and users—with less friction in daily work.",
     "ctaTitle": "Not sure where to start?",
-    "ctaBody": "We’ll help you identify the most valuable improvements and outline practical next steps.",
+    "ctaBody": "We will help you prioritize security improvements that matter most and outline practical next steps.",
     "items": {
       "iamTitle": "Identity & Access Management (IAM)",
-      "iamDesc": "Make access predictable and secure—so the right people can work, without unnecessary risk.",
+      "iamDesc": "Make access predictable and secure—so the right people can work and collaborate without unnecessary exposure of data.",
       "iamBullets": [
-        "User lifecycle management",
+        "User lifecycle and guest access",
         "MFA and Conditional Access",
-        "Role-based access control",
-        "Secure access to systems and data"
+        "Role-based access and least privilege",
+        "Secure access to systems, cloud, and collaboration tools"
       ],
-      "mdmTitle": "Mobile Device Management (MDM)",
-      "mdmDesc": "Keep devices consistent, secure, and up to date—whether employees work from the office or on the move.",
+      "mdmTitle": "Devices & endpoint security (MDM)",
+      "mdmDesc": "Keep PCs, laptops, and mobile devices secure and compliant—with management, updates, and protection wherever people work.",
       "mdmBullets": [
-        "Management of PCs, laptops, and mobile devices",
-        "Device enrollment",
-        "Security policies",
-        "Compliance and updates"
+        "Device management and enrollment (Intune)",
+        "Security policies, encryption, and configuration hardening",
+        "Integration with Microsoft Defender for Endpoint",
+        "Updates, compliance, and ongoing health"
       ],
-      "msTitle": "Microsoft Platform",
-      "msDesc": "Get a structured setup across Microsoft 365 and security—optimized for daily work and long-term maintainability.",
+      "msTitle": "Microsoft platform & Defender",
+      "msDesc": "Structured rollout of Microsoft 365, Entra, and the security stack—with emphasis on Defender, identity, and practical long-term operations.",
       "msBullets": [
-        "Microsoft 365",
-        "Intune",
-        "Entra ID",
-        "Security baselines",
-        "Optimization and best practices"
+        "Microsoft 365 and Teams in a secure context",
+        "Microsoft Defender for Endpoint (AV, EDR, hardening)",
+        "Defender for Office 365 (email and collaboration)",
+        "Intune, Entra ID, and security baselines",
+        "Optimization and best practices for SMBs and larger environments"
       ],
-      "advisoryTitle": "General IT advisory for SMBs",
-      "advisoryDesc": "Practical guidance that fits your size, your needs, and your pace—focused on structure, security, and clarity.",
-      "advisoryBullets": [
-        "Practical guidance",
-        "Scalable solutions",
-        "Security and structure",
-        "Long-term IT foundation"
+      "collabTitle": "Secure digital collaboration",
+      "collabDesc": "Let employees work effectively in Teams, SharePoint, and the cloud—with clear rules for sharing, guest access, and protection of sensitive information.",
+      "collabBullets": [
+        "Safe use of Teams and sharing channels",
+        "Governance of external sharing and guest access",
+        "Data classification and DLP where it adds value",
+        "Awareness and practical routines for secure collaboration"
       ],
-      "foundationTitle": "Digital Business Foundation",
-      "foundationDesc": "Get the essentials in place from the start with secure, structured support built for small and medium-sized businesses.",
-      "foundationBullets": [
-        "Website setup",
-        "Business account setup",
-        "Microsoft 365 setup",
-        "Core digital tools",
-        "Secure and structured startup support for SMBs"
+      "groundworkTitle": "Advisory and digital foundation",
+      "groundworkDesc": "Combined support for organizations that need practical digital security guidance and a secure baseline from day one—scalable for small and large teams.",
+      "groundworkBullets": [
+        "Risk assessment and prioritization of security improvements",
+        "Guidance tailored to size, industry, and maturity",
+        "Website and business account setup where needed",
+        "Microsoft 365 with security in mind from the start",
+        "Core tools and long-term structure for digital operations",
+        "Auditable solutions that grow with the business"
       ],
-      "securityMonitoringTitle": "Security and monitoring",
-      "securityMonitoringDesc": "Continuous follow-up on security and systems to detect and address risk early.",
+      "securityMonitoringTitle": "Security, monitoring, and incident response",
+      "securityMonitoringDesc": "Ongoing follow-up on alerts and signals from Defender and the platform—to detect and handle events early.",
       "securityMonitoringBullets": [
-        "Monitoring of devices and users",
-        "Security alerts and follow-up",
-        "Foundational threat protection",
-        "Policy and compliance follow-up"
+        "Monitoring of devices, identity, and email",
+        "Triage and follow-up on Microsoft Defender alerts",
+        "Foundational threat protection and incident prioritization",
+        "Policy, compliance, and continuous improvement"
       ]
     }
   },
   "about": {
-    "badge": "IT advisory for SMBs in Norway",
+    "badge": "Digital security and IT advisory for businesses in Norway",
     "title": "About SecCloudPath",
-    "intro": "SecCloudPath helps businesses create secure, structured, and modern IT environments—focused on reducing complexity, improving security, and building a strong technical foundation for growth.",
+    "intro": "SecCloudPath helps organizations build secure, structured, modern IT environments—with emphasis on the Microsoft platform, Defender, and practical protection for users, devices, and data. We work with both small and larger organizations that want real digital security without unnecessary complexity.",
     "cardTitle": "A calm, practical partner",
-    "cardBody1": "We work with small and medium-sized businesses that want more control over users, devices, and data—without turning IT into a large, ongoing project.",
-    "cardBody2": "The result is an environment that is easier to manage day to day, more resilient to risk, and better prepared for change.",
+    "cardBody1": "We work with businesses that want stronger security and better control over users and devices—without IT and security becoming a permanent crisis project.",
+    "cardBody2": "The result is an environment that is safer to collaborate in, easier to operate, and better prepared for threats and change.",
     "approachTitle": "Our approach",
-    "approachIntro": "We keep things clear and structured. Practical improvements first—then consistent security and scalable patterns that hold up over time.",
+    "approachIntro": "We prioritize concrete security outcomes and clear structure: the right protections first—then scalable patterns and continuous improvement.",
     "pillars": {
       "practicalTitle": "Practical solutions",
-      "practicalDesc": "Clear steps, minimal disruption, and outcomes that matter in daily work.",
-      "securityTitle": "Security",
-      "securityDesc": "Reduce risk with modern controls that support how people actually work.",
+      "practicalDesc": "Clear steps, minimal disruption, and controls that make day-to-day operations noticeably safer.",
+      "securityTitle": "Security up front",
+      "securityDesc": "Defender, access control, and secure collaboration aligned with how people actually work.",
       "structureTitle": "Structure",
-      "structureDesc": "Consistent standards for users, devices, and access—less complexity over time.",
+      "structureDesc": "Consistent standards for users, devices, and data—less sprawl and fewer vulnerabilities over time.",
       "scaleTitle": "Scalability",
-      "scaleDesc": "A foundation that supports growth, onboarding, and new needs without rework."
+      "scaleDesc": "A security architecture that supports growth, new hires, and new requirements—from SMBs to larger organizations."
     },
-    "partnerTitle": "A reliable IT partner for SMBs",
-    "partnerBody1": "You get straightforward guidance, documentation you can rely on, and an IT environment built to be manageable—not fragile.",
-    "partnerBody2": "Whether you need to establish structure from scratch or improve an existing setup, we focus on what creates lasting value."
+    "partnerTitle": "A reliable partner for digital security",
+    "partnerBody1": "You get clear guidance, documentation you can trust, and an environment built for both steady operations and incidents.",
+    "partnerBody2": "Whether you are establishing security from scratch or improving an existing setup, we focus on lasting value and measurable risk reduction."
   },
   "contact": {
-    "badge": "Let’s talk about your IT needs",
+    "badge": "Let’s talk about security and your IT needs",
     "title": "Contact us",
-    "intro": "If you want a more secure and structured IT environment, we’d be happy to help. Send a message and we’ll get back to you for an informal conversation.",
+    "intro": "If you want stronger digital security and better structure on the Microsoft platform, we would be happy to help. Send a message and we will get back to you for an informal conversation.",
     "cardTitle": "Send a message"
   }
 }
-

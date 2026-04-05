@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import {
   Activity,
   Building2,
-  Compass,
   LayoutGrid,
+  MessagesSquare,
   Shield,
   Smartphone
 } from "lucide-react";
@@ -136,20 +136,20 @@ export default async function ServicesPage({
               />
             </ScrollReveal>
 
-            <ScrollReveal delay={90}>
+            <ScrollReveal delay={50}>
               <ServiceCard
-                title={m.services.items.advisoryTitle}
-                description={m.services.items.advisoryDesc}
-                bullets={m.services.items.advisoryBullets}
-                icon={<FeatureIcon icon={Compass} tone="neutral" />}
+                title={m.services.items.collabTitle}
+                description={m.services.items.collabDesc}
+                bullets={m.services.items.collabBullets}
+                icon={<FeatureIcon icon={MessagesSquare} tone="ocean" />}
               />
             </ScrollReveal>
 
-            <ScrollReveal delay={60}>
+            <ScrollReveal delay={75}>
               <ServiceCard
-                title={m.services.items.foundationTitle}
-                description={m.services.items.foundationDesc}
-                bullets={m.services.items.foundationBullets}
+                title={m.services.items.groundworkTitle}
+                description={m.services.items.groundworkDesc}
+                bullets={m.services.items.groundworkBullets}
                 icon={<FeatureIcon icon={Building2} tone="ocean" />}
               />
             </ScrollReveal>

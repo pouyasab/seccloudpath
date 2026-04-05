@@ -6,7 +6,7 @@
     "contact": "Kontakt"
   },
   "common": {
-    "companyBadge": "IT-rådgivning for SMB i Norge",
+    "companyBadge": "Digital sikkerhet og IT-rådgivning for bedrifter i Norge",
     "contactUs": "Kontakt oss",
     "viewServices": "Se tjenester",
     "getInTouch": "Ta kontakt",
@@ -14,132 +14,132 @@
     "contactTitle": "Kontakt"
   },
   "home": {
-    "heroTitle": "Struktur, sikkerhet og kontroll i IT-miljøet ditt",
-    "heroSubtitle": "Vi hjelper små og mellomstore bedrifter med å få kontroll på brukere, enheter og data – med enkle, sikre og skalerbare løsninger du kan bygge videre på, og med rom for kontinuerlig oppfølging av risiko og sikkerhet.",
+    "heroTitle": "Digital sikkerhet, struktur og kontroll i IT-miljøet",
+    "heroSubtitle": "Vi hjelper små og store bedrifter med å styrke beskyttelse av brukere, enheter og data – med Microsoft Defender, trygg enhetsstyring og sikker digital samhandling. Målet er enkle, dokumenterbare og skalerbare sikkerhetsløsninger med rom for kontinuerlig risikovurdering og oppfølging.",
     "valueTitle": "Dette får dere",
     "foundationTitle": "Støtte helt fra starten",
-    "foundationBody": "SecCloudPath kan også hjelpe virksomheter helt fra oppstart med å etablere digitale grunnmurer på en trygg og strukturert måte.",
+    "foundationBody": "SecCloudPath kan også hjelpe virksomheter helt fra oppstart med å etablere digitale grunnmurer der sikkerhet er innebygd fra dag én – ikke et påhengsprosjekt senere.",
     "foundationPoints": [
       "Oppsett av nettside",
       "Oppsett av bedriftskonto",
-      "Oppsett av Microsoft 365",
-      "En sikker og strukturert digital grunnmur"
+      "Oppsett av Microsoft 365 med sikkerhetsbaseline",
+      "Beskyttelse av slutpunkter og trygg samhandling fra start"
     ],
     "value": {
-      "devicesTitle": "Kontroll på enheter",
-      "devicesDesc": "Få oversikt og styring av PC-er, bærbare og mobile enheter – på en konsekvent måte.",
-      "securityTitle": "Sterkere sikkerhet",
-      "securityDesc": "Moderne sikkerhetstiltak som reduserer risiko uten å gjøre hverdagen vanskelig.",
-      "usersTitle": "Effektiv brukeradministrasjon",
-      "usersDesc": "Gjør onboarding, tilgangsendringer og offboarding forutsigbart og enkelt å administrere.",
-      "scaleTitle": "Skalerbart grunnlag",
-      "scaleDesc": "Bygg et IT-oppsett som støtter vekst, nye ansatte og nye lokasjoner – uten omarbeid.",
+      "devicesTitle": "Trygghet for enheter og slutpunkter",
+      "devicesDesc": "Sterk beskyttelse av PC-er, bærbare og mobil – med MDM, retningslinjer og Microsoft Defender slik at enheter forblir oppdaterte, krypterte og i samsvar med policy.",
+      "securityTitle": "Sikkerhet som henger sammen",
+      "securityDesc": "Samspill mellom identitet, Defender, nettverk og data – moderne tiltak som reduserer risiko uten å lamme hverdagen.",
+      "usersTitle": "Brukere og tilgang under kontroll",
+      "usersDesc": "Gjør onboarding, tilgangsendringer og offboarding forutsigbart: MFA, betinget tilgang og tydelige roller som støtter sikker samhandling.",
+      "scaleTitle": "Skalerbart sikkerhetsgrunnlag",
+      "scaleDesc": "Bygg et IT- og sikkerhetsoppsett som vokser med virksomheten – fra mindre team til større organisasjoner – uten å måtte bygge alt på nytt.",
       "monitoringTitle": "Kontinuerlig oppfølging",
-      "monitoringDesc": "Hold sikkerhet og systemer under oppsikt over tid – med varsler, enkle rutiner og jevn vedlikehold av policy og compliance.",
-      "standardsTitle": "Tydelige standarder",
-      "standardsDesc": "Etabler felles praksis for tilgang, enheter og oppsett – enklere drift og færre avvik over tid."
+      "monitoringDesc": "Varsler, enkle rutiner og jevnlig vedlikehold av policy og compliance – slik at avvik fanges tidlig og dokumenteres.",
+      "standardsTitle": "Tydelige sikkerhetsstandarder",
+      "standardsDesc": "Felles praksis for tilgang, enheter, samhandling og oppsett – enklere drift, færre avvik og bedre etterlevelse over tid."
     },
-    "whyTitle": "Hvorfor struktur betyr noe",
-    "whyLead": "Med en strukturert IT-plattform går IT fra “noe som bare skjer” til noe dere kan styre med trygghet.",
-    "whyBody": "Når brukere, PC-er, mobile enheter og sikkerhet forvaltes som ett system, reduserer dere risiko og får tydelig oversikt over hvem som har tilgang til hva – og hvorfor. Det gjør det også lettere å følge opp kontinuerlig, slik at avvik og endringer ikke blir liggende.",
+    "whyTitle": "Hvorfor sikker struktur betyr noe",
+    "whyLead": "Når digital sikkerhet er strukturert, blir IT noe dere kan styre – ikke bare reagere på når noe går galt.",
+    "whyBody": "Med samordnet styring av brukere, enheter, Microsoft Defender og samhandlingsflater reduserer dere risiko og får oversikt over hvem som har tilgang til hva – og hvordan data deles. Det gjør det lettere å samarbeide trygt, og å følge opp kontinuerlig slik at hull og endringer ikke blir liggende.",
     "whyPoints": {
-      "riskTitle": "Reduser risiko",
-      "riskDesc": "Tydelige tilgangsregler og jevn sikkerhet på enheter.",
-      "timeTitle": "Spar tid",
-      "timeDesc": "Mindre manuelt arbeid og færre “spesialtilfeller”.",
+      "riskTitle": "Lavere risiko",
+      "riskDesc": "Tydelige tilgangsregler, konsekvent sluttpunktsikkerhet og kontrollert deling.",
+      "timeTitle": "Mer effektiv drift",
+      "timeDesc": "Færre manuelle unntak og mindre tid brukt på usikre «snarveier».",
       "controlTitle": "Bedre kontroll",
-      "controlDesc": "Bedre innsikt, enklere revisjon og mer forutsigbare endringer."
+      "controlDesc": "Innsikt for ledelse og drift, enklere revisjon og mer forutsigbare endringer."
     },
-    "ctaTitle": "Klar for bedre struktur og sikkerhet?",
-    "ctaBody": "Ta kontakt for en uformell prat. Vi hjelper dere å kartlegge situasjonen og foreslå praktiske neste steg."
+    "ctaTitle": "Klar for sterkere digital sikkerhet?",
+    "ctaBody": "Ta kontakt for en uformell prat. Vi hjelper dere å kartlegge risiko og foreslå konkrete neste steg – tilpasset både små og store virksomheter."
   },
   "services": {
-    "badge": "For små og mellomstore bedrifter",
+    "badge": "For små og store bedrifter",
     "title": "Tjenester",
-    "intro": "SecCloudPath hjelper virksomheter med å bygge sikre, strukturerte og håndterbare IT-miljøer. Målet er enkelt: tydeligere tilgang, tryggere enheter og mindre friksjon i hverdagen.",
+    "intro": "SecCloudPath hjelper virksomheter med å bygge dokumenterbare, sikre IT-miljøer: fra Microsoft Defender og enhetsstyring til sikker digital samhandling og generell rådgivning om digital sikkerhet. Målet er tydelig beskyttelse av data og brukere – med mindre friksjon i hverdagen.",
     "ctaTitle": "Usikker på hvor dere skal starte?",
-    "ctaBody": "Vi hjelper dere å finne de mest verdifulle forbedringene og skissere praktiske neste steg.",
+    "ctaBody": "Vi hjelper dere å prioritere sikkerhetstiltak som gir mest effekt og skissere praktiske neste steg.",
     "items": {
       "iamTitle": "Identitet og tilgangsstyring (IAM)",
-      "iamDesc": "Gjør tilgang forutsigbar og sikker – slik at riktige personer kan jobbe, uten unødvendig risiko.",
+      "iamDesc": "Gjør tilgang forutsigbar og sikker – slik at riktige personer kan jobbe og samhandle, uten unødvendig eksponering av data.",
       "iamBullets": [
-        "Livssyklus for brukere",
+        "Livssyklus for brukere og gjesteaksess",
         "MFA og betinget tilgang",
-        "Rollebasert tilgang",
-        "Sikker tilgang til systemer og data"
+        "Rollebasert tilgang og least privilege",
+        "Sikker tilgang til systemer, sky og samhandlingsflater"
       ],
-      "mdmTitle": "Enhetsadministrasjon (MDM)",
-      "mdmDesc": "Hold enheter konsekvente, sikre og oppdaterte – uansett om ansatte jobber på kontor eller på farten.",
+      "mdmTitle": "Enheter og sluttpunktsikkerhet (MDM)",
+      "mdmDesc": "Hold PC-er, bærbare og mobile enheter sikre og etterlevende – med styring, oppdateringer og beskyttelse uansett hvor folk jobber.",
       "mdmBullets": [
-        "Administrasjon av PC-er, bærbare og mobile enheter",
-        "Enhetsregistrering (enrollment)",
-        "Sikkerhetspolicyer",
-        "Etterlevelse og oppdateringer"
+        "Administrasjon og registrering av enheter (Intune)",
+        "Sikkerhetspolicyer, kryptering og herding av konfigurasjon",
+        "Integrasjon med Microsoft Defender for Endpoint",
+        "Oppdateringer, samsvar og løpende status"
       ],
-      "msTitle": "Microsoft-plattformen",
-      "msDesc": "Strukturert oppsett for Microsoft 365 og sikkerhet – optimalisert for hverdagen og enkel forvaltning over tid.",
+      "msTitle": "Microsoft-plattformen og Defender",
+      "msDesc": "Strukturert oppsett av Microsoft 365, Entra og sikkerhetsstacken – med fokus på Defender, identitet og praktisk forvaltning over tid.",
       "msBullets": [
-        "Microsoft 365",
-        "Intune",
-        "Entra ID",
-        "Sikkerhetsbaseline",
-        "Optimalisering og beste praksis"
+        "Microsoft 365 og Teams i sikker kontekst",
+        "Microsoft Defender for Endpoint (antivirus, EDR, hardening)",
+        "Defender for Office 365 (e-post og samhandling)",
+        "Intune, Entra ID og sikkerhetsbaseline",
+        "Optimalisering og beste praksis for SMB og større miljøer"
       ],
-      "advisoryTitle": "Generell IT-rådgivning for SMB",
-      "advisoryDesc": "Praktisk rådgivning som passer størrelse, behov og tempo – med fokus på struktur, sikkerhet og tydelighet.",
-      "advisoryBullets": [
-        "Praktisk veiledning",
-        "Skalerbare løsninger",
-        "Sikkerhet og struktur",
-        "Langsiktig IT-grunnmur"
+      "collabTitle": "Sikker digital samhandling",
+      "collabDesc": "La ansatte samarbeide effektivt i Teams, SharePoint og sky – med tydelige regler for deling, gjesteaksess og beskyttelse av sensitiv informasjon.",
+      "collabBullets": [
+        "Trygg bruk av Teams og delingskanaler",
+        "Styring av ekstern deling og gjesteaksess",
+        "Dataklassifisering og DLP der det gir mening",
+        "Bevisstgjøring og praktiske rutiner for sikker samhandling"
       ],
-      "foundationTitle": "Digital forretningsgrunnmur",
-      "foundationDesc": "Få det viktigste på plass fra starten med trygg og strukturert støtte tilpasset små og mellomstore bedrifter.",
-      "foundationBullets": [
-        "Oppsett av nettside",
-        "Oppsett av bedriftskonto",
-        "Oppsett av Microsoft 365",
-        "Kjerneverktøy for digital drift",
-        "Sikker og strukturert oppstartsstøtte for SMB"
+      "groundworkTitle": "Rådgivning og digital grunnmur",
+      "groundworkDesc": "Kombinert støtte for virksomheter som trenger praktisk rådgivning om digital sikkerhet og et trygt fundament fra oppstart – skalerbart for små og store team.",
+      "groundworkBullets": [
+        "Kartlegging av risiko og prioritering av sikkerhetstiltak",
+        "Rådgivning tilpasset størrelse, bransje og modenhet",
+        "Oppsett av nettside og bedriftskonto der det trengs",
+        "Microsoft 365 med sikkerhet i tankene fra start",
+        "Kjerneverktøy og langsiktig struktur for digital drift",
+        "Dokumenterbare løsninger som vokser med virksomheten"
       ],
-      "securityMonitoringTitle": "Sikkerhet og overvåking",
-      "securityMonitoringDesc": "Kontinuerlig oppfølging av sikkerhet og systemer for å oppdage og håndtere risiko tidlig.",
+      "securityMonitoringTitle": "Sikkerhet, overvåking og hendelseshåndtering",
+      "securityMonitoringDesc": "Kontinuerlig oppfølging av alarmer og signaler fra Defender og plattformen – for å oppdage og håndtere hendelser tidlig.",
       "securityMonitoringBullets": [
-        "Overvåking av enheter og brukere",
-        "Sikkerhetsvarsler og oppfølging",
-        "Grunnleggende trusselbeskyttelse",
-        "Oppfølging av policy og compliance"
+        "Overvåking av enheter, identitet og e-post",
+        "Oppfølging av sikkerhetsvarsler fra Microsoft Defender",
+        "Grunnleggende trusselbeskyttelse og prioritering av hendelser",
+        "Oppfølging av policy, compliance og forbedringsløp"
       ]
     }
   },
   "about": {
-    "badge": "IT-rådgivning for SMB i Norge",
+    "badge": "Digital sikkerhet og IT-rådgivning for bedrifter i Norge",
     "title": "Om SecCloudPath",
-    "intro": "SecCloudPath hjelper virksomheter med å skape sikre, strukturerte og moderne IT-miljøer – med fokus på å redusere kompleksitet, styrke sikkerheten og bygge en solid teknisk plattform for vekst.",
+    "intro": "SecCloudPath hjelper virksomheter med å bygge sikre, strukturerte og moderne IT-miljøer – med vekt på Microsoft-plattformen, Defender og praktisk beskyttelse av brukere, enheter og data. Vi jobber med både små og større organisasjoner som ønsker reell digital sikkerhet uten unødvendig kompleksitet.",
     "cardTitle": "En rolig og praktisk partner",
-    "cardBody1": "Vi jobber med små og mellomstore bedrifter som ønsker bedre kontroll på brukere, enheter og data – uten at IT blir et stort og løpende prosjekt.",
-    "cardBody2": "Resultatet er et miljø som er enklere å drifte i hverdagen, mer robust mot risiko og bedre forberedt på endringer.",
+    "cardBody1": "Vi jobber med bedrifter som vil ha bedre kontroll på sikkerhet, brukere og enheter – uten at IT og sikkerhet blir et evig kriseprosjekt.",
+    "cardBody2": "Resultatet er et miljø som er tryggere å samhandle i, enklere å drifte og bedre rustet mot trusler og endringer.",
     "approachTitle": "Vår tilnærming",
-    "approachIntro": "Vi holder det tydelig og strukturert. Praktiske forbedringer først – deretter jevn sikkerhet og skalerbare mønstre som varer over tid.",
+    "approachIntro": "Vi prioriterer konkrete sikkerhetsgevinster og tydelig struktur: riktig beskyttelse først – deretter skalerbare mønstre og løpende forbedring.",
     "pillars": {
       "practicalTitle": "Praktiske løsninger",
-      "practicalDesc": "Tydelige steg, minst mulig forstyrrelse og resultater som betyr noe i hverdagen.",
-      "securityTitle": "Sikkerhet",
-      "securityDesc": "Reduser risiko med moderne tiltak som støtter måten folk faktisk jobber på.",
+      "practicalDesc": "Tydelige steg, minst mulig forstyrrelse og tiltak som gir merkbart tryggere drift.",
+      "securityTitle": "Sikkerhet i forkant",
+      "securityDesc": "Defender, tilgangskontroll og sikker samhandling tilpasset hvordan folk faktisk jobber.",
       "structureTitle": "Struktur",
-      "structureDesc": "Konsekvente standarder for brukere, enheter og tilgang – mindre kompleksitet over tid.",
+      "structureDesc": "Konsekvente standarder for brukere, enheter og data – mindre rot og færre sårbarheter over tid.",
       "scaleTitle": "Skalerbarhet",
-      "scaleDesc": "En grunnmur som støtter vekst, onboarding og nye behov – uten omarbeid."
+      "scaleDesc": "En sikkerhetsarkitektur som tåler vekst, nye ansatte og nye krav – fra SMB til større organisasjoner."
     },
-    "partnerTitle": "En pålitelig IT-partner for SMB",
-    "partnerBody1": "Dere får tydelig rådgivning, dokumentasjon dere kan stole på og et IT-miljø som er bygget for å være håndterbart – ikke sårbart.",
-    "partnerBody2": "Enten dere skal etablere struktur fra bunnen av eller forbedre et eksisterende oppsett, fokuserer vi på det som gir varig verdi."
+    "partnerTitle": "En pålitelig partner for digital sikkerhet",
+    "partnerBody1": "Dere får tydelig rådgivning, dokumentasjon dere kan stole på og et miljø som er bygget for å tåle både hverdag og hendelser.",
+    "partnerBody2": "Enten dere etablerer sikkerhet fra bunnen av eller forbedrer dagens oppsett, fokuserer vi på varig verdi og målbar risikoreduksjon."
   },
   "contact": {
-    "badge": "La oss snakke om IT-behovene deres",
+    "badge": "La oss snakke om sikkerhet og IT-behovene deres",
     "title": "Kontakt",
-    "intro": "Ønsker dere et mer sikkert og strukturert IT-miljø, hjelper vi gjerne. Send en melding, så tar vi kontakt for en uformell prat.",
+    "intro": "Ønsker dere sterkere digital sikkerhet og bedre struktur på Microsoft-plattformen, hjelper vi gjerne. Send en melding, så tar vi kontakt for en uformell prat.",
     "cardTitle": "Send en melding"
   }
 }
-

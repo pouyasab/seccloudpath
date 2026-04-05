@@ -61,39 +61,39 @@ export default async function HomePage({
   const m = await getMessages(locale);
 
   const trust = [
-    locale === "no" ? "Microsoft-økosystem" : "Microsoft ecosystem",
-    locale === "no" ? "Identitet & tilgang" : "Identity & access",
-    locale === "no" ? "Enhetsstyring" : "Device management"
+    locale === "no" ? "Microsoft 365 & Defender" : "Microsoft 365 & Defender",
+    locale === "no" ? "Sluttpunkt- og enhetssikkerhet" : "Endpoint & device security",
+    locale === "no" ? "Sikker digital samhandling" : "Secure collaboration"
   ];
 
   const highlights =
     locale === "no"
       ? [
           {
-            t: "Ryddig og strukturert",
-            d: "Identitet, enheter og sikkerhet i samme retning."
+            t: "Sikkerhet i praksis",
+            d: "Defender, policy og overvåkning som henger sammen."
           },
           {
-            t: "Praktisk veiledning",
-            d: "Tydelige steg — uten unødvendig kompleksitet."
+            t: "Samhandling med kontroll",
+            d: "Teams og deling med tydelige regler for data og tilgang."
           },
           {
-            t: "Bygget for vekst",
-            d: "En grunnmur som skalerer med virksomheten."
+            t: "Skalerbart for bedrifter",
+            d: "Fra mindre team til større organisasjoner – samme prinsipper."
           }
         ]
       : [
           {
-            t: "Clean, structured setup",
-            d: "Identity, devices, and security aligned."
+            t: "Security in practice",
+            d: "Defender, policy, and monitoring working as one system."
           },
           {
-            t: "Practical guidance",
-            d: "Clear steps — no unnecessary complexity."
+            t: "Collaboration with control",
+            d: "Teams and sharing with clear rules for data and access."
           },
           {
-            t: "Built for growth",
-            d: "A foundation that scales with your business."
+            t: "Scalable for organizations",
+            d: "From small teams to larger businesses—same core principles."
           }
         ];
 
@@ -192,8 +192,8 @@ export default async function HomePage({
                         </div>
                         <div className="text-xs text-slate-700">
                           {locale === "no"
-                            ? "MDM og compliance"
-                            : "MDM and compliance"}
+                            ? "Defender, MDM og etterlevelse"
+                            : "Defender, MDM, and compliance"}
                         </div>
                       </div>
                     </div>
