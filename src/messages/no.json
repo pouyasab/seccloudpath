@@ -14,41 +14,47 @@
     "contactTitle": "Kontakt"
   },
   "home": {
-    "heroTitle": "Struktur, sikkerhet og kontroll – bygget på Microsoft-plattformen",
-    "heroSubtitle": "Vi hjelper små og mellomstore bedrifter å få oversikt og riktig sikkerhetsnivå med Entra ID, Intune og Microsoft Defender. Vi jobber forebyggende og strukturert – ikke som en klassisk helpdesk-kø – slik at miljøet blir enklere å drifte og behovet for support minker over tid.",
+    "heroTitle": "Struktur, sikkerhet og kontroll – uten unødvendig kompleksitet",
+    "heroSubtitle": "Et sikkert IT-miljø starter med struktur og riktige valg. God sikkerhet handler ikke om flere verktøy, men om riktig oppsett og kontroll. Vi hjelper dere med å bygge en trygg digital plattform som tåler både vekst og uforutsette hendelser.",
     "valueTitle": "Dette får dere",
-    "foundationTitle": "Støtte helt fra starten",
-    "foundationBody": "Helt fra oppstart får dere raskt på plass det viktigste med tydelige standarder: en trygg grunnmur som bygges riktig først, ikke repareres i farten.",
+    "foundationTitle": "Start riktig, før risikoen får fotfeste",
+    "foundationBody": "De første valgene legger grunnlaget for både sikkerhet og drift i årene fremover. Vi hjelper dere å etablere et IT-miljø som er sikkert, strukturert og under kontroll fra dag én. Med tydelige standarder og riktige valg unngår dere feil som ellers blir kostbare å rette opp senere.",
     "foundationPoints": [
-      "Nettside og tilstedeværelse der det trengs",
-      "Bedriftskonto og grunnleggende oppsett",
-      "Microsoft 365 med sikker standard: Entra ID, MFA og beskyttelse av administratorer",
-      "PC og mobil med Intune – policy, oppdateringer og riktig nivå av Defender"
+      "Digital tilstedeværelse og synlighet",
+      "Etablering av virksomhetens digitale identitet",
+      "Sikker grunnplattform med tilgangskontroll og beskyttelse",
+      "Enheter satt opp med riktig sikkerhetsnivå og kontroll"
+    ],
+    "foundationStepLabels": [
+      "Først …",
+      "Deretter …",
+      "Videre …",
+      "Til slutt …"
     ],
     "value": {
-      "devicesTitle": "Kontroll på enheter",
-      "devicesDesc": "Enheter settes opp likt og styres sentralt med Intune – med tydelige standarder uansett hvor folk jobber.",
-      "securityTitle": "Styrket sikkerhet",
-      "securityDesc": "Entra ID og Microsoft Defender brukes riktig fra start – for å redusere risiko uten å gjøre arbeidshverdagen tung.",
-      "usersTitle": "Effektiv administrasjon",
-      "usersDesc": "Mindre manuelt arbeid, færre avvik og raskere onboarding og offboarding – lavere driftskost over tid når strukturen sitter.",
-      "scaleTitle": "Struktur som lønner seg",
-      "scaleDesc": "Tydelige standarder gir færre unntak og mindre risiko – lavere total kost og mer forutsigbar drift over tid.",
-      "monitoringTitle": "Kontinuerlig oppfølging",
-      "monitoringDesc": "Varsler og enkle rutiner i Defender og plattformen – avvik fanges tidlig og dokumenteres.",
-      "standardsTitle": "Tydelige standarder",
-      "standardsDesc": "Felles praksis for tilgang, enheter og samhandling – mindre rot, enklere revisjon og færre feil i hverdagen."
+      "devicesTitle": "Full kontroll på enheter",
+      "devicesDesc": "Alle enheter settes opp etter samme standard og styres sentralt, uavhengig av hvor folk jobber. Det gir forutsigbar drift og færre avvik.",
+      "securityTitle": "Sikkerhet som faktisk fungerer",
+      "securityDesc": "Sikkerheten er riktig satt opp fra starten og jobber i bakgrunnen. Risiko reduseres uten at det går på bekostning av brukervennlighet.",
+      "usersTitle": "Enklere administrasjon",
+      "usersDesc": "Mindre manuelt arbeid, færre feil og raskere onboarding og offboarding. Hverdagen blir enklere, og driften mer effektiv.",
+      "scaleTitle": "Struktur som reduserer kostnader",
+      "scaleDesc": "Tydelige standarder gir færre unntak, mindre kompleksitet og lavere total kost over tid.",
+      "monitoringTitle": "Kontinuerlig kontroll og oppfølging",
+      "monitoringDesc": "Avvik oppdages tidlig gjennom varsler og faste rutiner. Dere har oversikt, ikke overraskelser.",
+      "standardsTitle": "Felles standarder som holder over tid",
+      "standardsDesc": "Tilgang, enheter og samhandling følger samme praksis. Det gir mindre rot, enklere revisjon og tryggere drift."
     },
     "whyTitle": "Hvorfor struktur betyr noe",
-    "whyLead": "Struktur i Entra ID og Intune gir mindre brannslukking og mer forutsigbar hverdag – før kostnader og risiko vokser.",
-    "whyBody": "Små og mellomstore virksomheter trenger ikke bare flere «brannslukkere»: dere trenger standarder, dokumentasjon og løpende forbedring. Da blir IT enklere å forstå, tryggere å bruke og billigere å drifte over tid.",
+    "whyLead": "Uten tydelig struktur blir IT fort reaktivt – med mer brannslukking, høyere risiko og økende kostnader. Med riktig oppsett fra starten får dere kontroll, forutsigbarhet og en løsning som fungerer over tid.",
+    "whyBody": "Små og mellomstore virksomheter trenger ikke flere enkelttiltak, men en gjennomtenkt helhet. Når tilgang, enheter og sikkerhet følger faste standarder, blir IT enklere å forstå, tryggere å bruke og mer kostnadseffektivt å drifte.",
     "whyPoints": {
       "riskTitle": "Mindre brannslukking",
-      "riskDesc": "Færre eskaleringer og avvik når roller, tilgang og enheter er standardisert og dokumentert.",
+      "riskDesc": "Færre avvik og eskaleringer når roller, tilganger og enheter er strukturert og standardisert.",
       "timeTitle": "Lavere risiko",
-      "timeDesc": "Bedre håndtering ved tap av enhet eller mistenkelig innlogging – med Entra ID og Defender på plass.",
-      "controlTitle": "Lavere total kost",
-      "controlDesc": "Forutsigbar drift og mindre manuelt arbeid når grunnmuren er riktig – ikke stadig hastverk per avvik."
+      "timeDesc": "Bedre kontroll på tilgang og hendelser gjør at problemer håndteres tidlig – før de får konsekvenser.",
+      "controlTitle": "Lavere total kostnad",
+      "controlDesc": "En riktig bygget grunnmur gir mindre manuelt arbeid og færre hastetiltak – og dermed mer forutsigbar drift over tid."
     },
     "ctaTitle": "Klar for bedre struktur og sikkerhet?",
     "ctaBody": "Vi tar en uforpliktende prat og foreslår konkrete neste steg basert på miljøet deres. Vi svarer normalt innen 1–2 virkedager."

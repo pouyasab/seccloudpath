@@ -61,41 +61,42 @@ export default async function HomePage({
   const m = await getMessages(locale);
 
   const trust = [
-    locale === "no" ? "Entra ID · Intune · Defender" : "Entra ID · Intune · Defender",
-    locale === "no" ? "Forebyggende struktur" : "Preventive structure",
+    locale === "no" ? "Forebyggende sikkerhet" : "Preventive security",
+    locale === "no" ? "Strukturert oppsett" : "Structured setup",
+    locale === "no" ? "Stabil drift over tid" : "Stable operations over time",
     locale === "no"
-      ? "Mindre supportbehov over tid"
-      : "Less support load over time"
+      ? "Mindre behov for brannslukking"
+      : "Less firefighting over time"
   ];
 
   const highlights =
     locale === "no"
       ? [
           {
-            t: "Standarder som varer",
-            d: "Entra ID og Intune gir forutsigbarhet – ikke bare lapp på lapp."
+            t: "Sikkerhet i praksis",
+            d: "Defender, policy og overvåkning som henger sammen."
           },
           {
-            t: "Riktig Defender-nivå",
-            d: "Tilpasset risiko og arbeidshverdag – uten unødvendig friksjon."
+            t: "Samhandling med kontroll",
+            d: "Teams og deling med tydelige regler for data og tilgang."
           },
           {
-            t: "Lavere kost over tid",
-            d: "Mindre manuelt arbeid og færre avvik når grunnmuren sitter."
+            t: "Skalerbart for bedrifter",
+            d: "Fra mindre team til større organisasjoner – samme prinsipper."
           }
         ]
       : [
           {
-            t: "Standards that last",
-            d: "Entra ID and Intune bring predictability—not endless patching."
+            t: "Security in practice",
+            d: "Defender, policy, and monitoring working as one system."
           },
           {
-            t: "The right Defender level",
-            d: "Tuned to risk and daily work—without unnecessary friction."
+            t: "Collaboration with control",
+            d: "Teams and sharing with clear rules for data and access."
           },
           {
-            t: "Lower cost over time",
-            d: "Less manual work and fewer deviations when the foundation is right."
+            t: "Scalable for organizations",
+            d: "From small teams to larger businesses—same core principles."
           }
         ];
 
@@ -169,12 +170,12 @@ export default async function HomePage({
                       </span>
                       <div>
                         <div className="text-sm font-semibold text-slate-900">
-                          {locale === "no" ? "Entra ID" : "Entra ID"}
+                          {locale === "no" ? "Sikker tilgang" : "Secure access"}
                         </div>
                         <div className="text-xs text-slate-700">
                           {locale === "no"
-                            ? "MFA og betinget tilgang"
-                            : "MFA and Conditional Access"}
+                            ? "Policy og MFA på plass"
+                            : "Policy and MFA in place"}
                         </div>
                       </div>
                     </div>
@@ -190,12 +191,12 @@ export default async function HomePage({
                       </span>
                       <div>
                         <div className="text-sm font-semibold text-slate-900">
-                          {locale === "no" ? "Intune" : "Intune"}
+                          {locale === "no" ? "Enheter" : "Devices"}
                         </div>
                         <div className="text-xs text-slate-700">
                           {locale === "no"
-                            ? "Policy, oppdateringer, etterlevelse"
-                            : "Policy, updates, compliance"}
+                            ? "Defender, MDM og etterlevelse"
+                            : "Defender, MDM, and compliance"}
                         </div>
                       </div>
                     </div>
@@ -212,12 +213,12 @@ export default async function HomePage({
                       </span>
                       <div>
                         <div className="text-sm font-semibold text-slate-900">
-                          {locale === "no" ? "Defender" : "Defender"}
+                          {locale === "no" ? "Data & sporbarhet" : "Data & traceability"}
                         </div>
                         <div className="text-xs text-slate-700">
                           {locale === "no"
-                            ? "Varsler og oppfølging"
-                            : "Alerts and follow-up"}
+                            ? "Kontinuerlig overvåkning"
+                            : "Continuous oversight"}
                         </div>
                       </div>
                     </div>
@@ -251,6 +252,7 @@ export default async function HomePage({
             title={m.home.foundationTitle}
             body={m.home.foundationBody}
             points={m.home.foundationPoints}
+            stepLabels={m.home.foundationStepLabels}
           />
 
           <ScrollReveal>

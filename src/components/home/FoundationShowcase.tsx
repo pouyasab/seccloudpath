@@ -16,11 +16,13 @@ const iconStyles = [
 export function FoundationShowcase({
   title,
   body,
-  points
+  points,
+  stepLabels
 }: {
   title: string;
   body: string;
   points: string[];
+  stepLabels: string[];
 }) {
   return (
     <div className="relative">
@@ -86,8 +88,8 @@ export function FoundationShowcase({
                           <Icon className="size-6" strokeWidth={1.65} aria-hidden />
                         </span>
                         <div className="min-w-0 flex-1">
-                          <span className="mb-1.5 block font-mono text-[10px] font-semibold uppercase tracking-[0.22em] text-slate-400">
-                            {String(i + 1).padStart(2, "0")}
+                          <span className="mb-1.5 block text-sm font-bold text-black">
+                            {stepLabels[i] ?? `Steg ${i + 1}`}
                           </span>
                           <p className="text-sm font-medium leading-snug text-slate-800">
                             {point}

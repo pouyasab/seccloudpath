@@ -25,6 +25,12 @@
       "Microsoft 365 with a secure baseline: Entra ID, MFA, and admin protection",
       "PCs and mobile with Intune—policies, updates, and the right level of Defender"
     ],
+    "foundationStepLabels": [
+      "First …",
+      "Then …",
+      "Next …",
+      "Finally …"
+    ],
     "value": {
       "devicesTitle": "Control over devices",
       "devicesDesc": "Devices are set up consistently and managed centrally with Intune—with clear standards wherever people work.",
