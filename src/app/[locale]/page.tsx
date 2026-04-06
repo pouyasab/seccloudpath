@@ -61,39 +61,41 @@ export default async function HomePage({
   const m = await getMessages(locale);
 
   const trust = [
-    locale === "no" ? "Microsoft 365 & Defender" : "Microsoft 365 & Defender",
-    locale === "no" ? "Sluttpunkt- og enhetssikkerhet" : "Endpoint & device security",
-    locale === "no" ? "Sikker digital samhandling" : "Secure collaboration"
+    locale === "no" ? "Entra ID · Intune · Defender" : "Entra ID · Intune · Defender",
+    locale === "no" ? "Forebyggende struktur" : "Preventive structure",
+    locale === "no"
+      ? "Mindre supportbehov over tid"
+      : "Less support load over time"
   ];
 
   const highlights =
     locale === "no"
       ? [
           {
-            t: "Sikkerhet i praksis",
-            d: "Defender, policy og overvåkning som henger sammen."
+            t: "Standarder som varer",
+            d: "Entra ID og Intune gir forutsigbarhet – ikke bare lapp på lapp."
           },
           {
-            t: "Samhandling med kontroll",
-            d: "Teams og deling med tydelige regler for data og tilgang."
+            t: "Riktig Defender-nivå",
+            d: "Tilpasset risiko og arbeidshverdag – uten unødvendig friksjon."
           },
           {
-            t: "Skalerbart for bedrifter",
-            d: "Fra mindre team til større organisasjoner – samme prinsipper."
+            t: "Lavere kost over tid",
+            d: "Mindre manuelt arbeid og færre avvik når grunnmuren sitter."
           }
         ]
       : [
           {
-            t: "Security in practice",
-            d: "Defender, policy, and monitoring working as one system."
+            t: "Standards that last",
+            d: "Entra ID and Intune bring predictability—not endless patching."
           },
           {
-            t: "Collaboration with control",
-            d: "Teams and sharing with clear rules for data and access."
+            t: "The right Defender level",
+            d: "Tuned to risk and daily work—without unnecessary friction."
           },
           {
-            t: "Scalable for organizations",
-            d: "From small teams to larger businesses—same core principles."
+            t: "Lower cost over time",
+            d: "Less manual work and fewer deviations when the foundation is right."
           }
         ];
 
@@ -167,12 +169,12 @@ export default async function HomePage({
                       </span>
                       <div>
                         <div className="text-sm font-semibold text-slate-900">
-                          {locale === "no" ? "Sikker tilgang" : "Secure access"}
+                          {locale === "no" ? "Entra ID" : "Entra ID"}
                         </div>
                         <div className="text-xs text-slate-700">
                           {locale === "no"
-                            ? "Policy og MFA på plass"
-                            : "Policy and MFA in place"}
+                            ? "MFA og betinget tilgang"
+                            : "MFA and Conditional Access"}
                         </div>
                       </div>
                     </div>
@@ -188,12 +190,12 @@ export default async function HomePage({
                       </span>
                       <div>
                         <div className="text-sm font-semibold text-slate-900">
-                          {locale === "no" ? "Enheter" : "Devices"}
+                          {locale === "no" ? "Intune" : "Intune"}
                         </div>
                         <div className="text-xs text-slate-700">
                           {locale === "no"
-                            ? "Defender, MDM og etterlevelse"
-                            : "Defender, MDM, and compliance"}
+                            ? "Policy, oppdateringer, etterlevelse"
+                            : "Policy, updates, compliance"}
                         </div>
                       </div>
                     </div>
@@ -210,12 +212,12 @@ export default async function HomePage({
                       </span>
                       <div>
                         <div className="text-sm font-semibold text-slate-900">
-                          {locale === "no" ? "Data & sporbarhet" : "Data & traceability"}
+                          {locale === "no" ? "Defender" : "Defender"}
                         </div>
                         <div className="text-xs text-slate-700">
                           {locale === "no"
-                            ? "Kontinuerlig overvåkning"
-                            : "Continuous oversight"}
+                            ? "Varsler og oppfølging"
+                            : "Alerts and follow-up"}
                         </div>
                       </div>
                     </div>

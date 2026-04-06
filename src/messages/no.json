@@ -6,135 +6,134 @@
     "contact": "Kontakt"
   },
   "common": {
-    "companyBadge": "Digital sikkerhet og IT-rådgivning for bedrifter i Norge",
+    "companyBadge": "Struktur og Microsoft-sikkerhet for SMB i Norge",
     "contactUs": "Kontakt oss",
-    "viewServices": "Se tjenester",
+    "viewServices": "Få en vurdering",
     "getInTouch": "Ta kontakt",
     "pagesTitle": "Sider",
     "contactTitle": "Kontakt"
   },
   "home": {
-    "heroTitle": "Digital sikkerhet, struktur og kontroll i IT-miljøet",
-    "heroSubtitle": "Vi hjelper små og store bedrifter med å styrke beskyttelse av brukere, enheter og data – med Microsoft Defender, trygg enhetsstyring og sikker digital samhandling. Målet er enkle, dokumenterbare og skalerbare sikkerhetsløsninger med rom for kontinuerlig risikovurdering og oppfølging.",
+    "heroTitle": "Struktur, sikkerhet og kontroll – bygget på Microsoft-plattformen",
+    "heroSubtitle": "Vi hjelper små og mellomstore bedrifter å få oversikt og riktig sikkerhetsnivå med Entra ID, Intune og Microsoft Defender. Vi jobber forebyggende og strukturert – ikke som en klassisk helpdesk-kø – slik at miljøet blir enklere å drifte og behovet for support minker over tid.",
     "valueTitle": "Dette får dere",
     "foundationTitle": "Støtte helt fra starten",
-    "foundationBody": "SecCloudPath kan også hjelpe virksomheter helt fra oppstart med å etablere digitale grunnmurer der sikkerhet er innebygd fra dag én – ikke et påhengsprosjekt senere.",
+    "foundationBody": "Helt fra oppstart får dere raskt på plass det viktigste med tydelige standarder: en trygg grunnmur som bygges riktig først, ikke repareres i farten.",
     "foundationPoints": [
-      "Oppsett av nettside",
-      "Oppsett av bedriftskonto",
-      "Oppsett av Microsoft 365 med sikkerhetsbaseline",
-      "Beskyttelse av slutpunkter og trygg samhandling fra start"
+      "Nettside og tilstedeværelse der det trengs",
+      "Bedriftskonto og grunnleggende oppsett",
+      "Microsoft 365 med sikker standard: Entra ID, MFA og beskyttelse av administratorer",
+      "PC og mobil med Intune – policy, oppdateringer og riktig nivå av Defender"
     ],
     "value": {
-      "devicesTitle": "Trygghet for enheter og slutpunkter",
-      "devicesDesc": "Sterk beskyttelse av PC-er, bærbare og mobil – med MDM, retningslinjer og Microsoft Defender slik at enheter forblir oppdaterte, krypterte og i samsvar med policy.",
-      "securityTitle": "Sikkerhet som henger sammen",
-      "securityDesc": "Samspill mellom identitet, Defender, nettverk og data – moderne tiltak som reduserer risiko uten å lamme hverdagen.",
-      "usersTitle": "Brukere og tilgang under kontroll",
-      "usersDesc": "Gjør onboarding, tilgangsendringer og offboarding forutsigbart: MFA, betinget tilgang og tydelige roller som støtter sikker samhandling.",
-      "scaleTitle": "Skalerbart sikkerhetsgrunnlag",
-      "scaleDesc": "Bygg et IT- og sikkerhetsoppsett som vokser med virksomheten – fra mindre team til større organisasjoner – uten å måtte bygge alt på nytt.",
+      "devicesTitle": "Kontroll på enheter",
+      "devicesDesc": "Enheter settes opp likt og styres sentralt med Intune – med tydelige standarder uansett hvor folk jobber.",
+      "securityTitle": "Styrket sikkerhet",
+      "securityDesc": "Entra ID og Microsoft Defender brukes riktig fra start – for å redusere risiko uten å gjøre arbeidshverdagen tung.",
+      "usersTitle": "Effektiv administrasjon",
+      "usersDesc": "Mindre manuelt arbeid, færre avvik og raskere onboarding og offboarding – lavere driftskost over tid når strukturen sitter.",
+      "scaleTitle": "Struktur som lønner seg",
+      "scaleDesc": "Tydelige standarder gir færre unntak og mindre risiko – lavere total kost og mer forutsigbar drift over tid.",
       "monitoringTitle": "Kontinuerlig oppfølging",
-      "monitoringDesc": "Varsler, enkle rutiner og jevnlig vedlikehold av policy og compliance – slik at avvik fanges tidlig og dokumenteres.",
-      "standardsTitle": "Tydelige sikkerhetsstandarder",
-      "standardsDesc": "Felles praksis for tilgang, enheter, samhandling og oppsett – enklere drift, færre avvik og bedre etterlevelse over tid."
+      "monitoringDesc": "Varsler og enkle rutiner i Defender og plattformen – avvik fanges tidlig og dokumenteres.",
+      "standardsTitle": "Tydelige standarder",
+      "standardsDesc": "Felles praksis for tilgang, enheter og samhandling – mindre rot, enklere revisjon og færre feil i hverdagen."
     },
-    "whyTitle": "Hvorfor sikker struktur betyr noe",
-    "whyLead": "Når digital sikkerhet er strukturert, blir IT noe dere kan styre – ikke bare reagere på når noe går galt.",
-    "whyBody": "Med samordnet styring av brukere, enheter, Microsoft Defender og samhandlingsflater reduserer dere risiko og får oversikt over hvem som har tilgang til hva – og hvordan data deles. Det gjør det lettere å samarbeide trygt, og å følge opp kontinuerlig slik at hull og endringer ikke blir liggende.",
+    "whyTitle": "Hvorfor struktur betyr noe",
+    "whyLead": "Struktur i Entra ID og Intune gir mindre brannslukking og mer forutsigbar hverdag – før kostnader og risiko vokser.",
+    "whyBody": "Små og mellomstore virksomheter trenger ikke bare flere «brannslukkere»: dere trenger standarder, dokumentasjon og løpende forbedring. Da blir IT enklere å forstå, tryggere å bruke og billigere å drifte over tid.",
     "whyPoints": {
-      "riskTitle": "Lavere risiko",
-      "riskDesc": "Tydelige tilgangsregler, konsekvent sluttpunktsikkerhet og kontrollert deling.",
-      "timeTitle": "Mer effektiv drift",
-      "timeDesc": "Færre manuelle unntak og mindre tid brukt på usikre «snarveier».",
-      "controlTitle": "Bedre kontroll",
-      "controlDesc": "Innsikt for ledelse og drift, enklere revisjon og mer forutsigbare endringer."
+      "riskTitle": "Mindre brannslukking",
+      "riskDesc": "Færre eskaleringer og avvik når roller, tilgang og enheter er standardisert og dokumentert.",
+      "timeTitle": "Lavere risiko",
+      "timeDesc": "Bedre håndtering ved tap av enhet eller mistenkelig innlogging – med Entra ID og Defender på plass.",
+      "controlTitle": "Lavere total kost",
+      "controlDesc": "Forutsigbar drift og mindre manuelt arbeid når grunnmuren er riktig – ikke stadig hastverk per avvik."
     },
-    "ctaTitle": "Klar for sterkere digital sikkerhet?",
-    "ctaBody": "Ta kontakt for en uformell prat. Vi hjelper dere å kartlegge risiko og foreslå konkrete neste steg – tilpasset både små og store virksomheter."
+    "ctaTitle": "Klar for bedre struktur og sikkerhet?",
+    "ctaBody": "Vi tar en uforpliktende prat og foreslår konkrete neste steg basert på miljøet deres. Vi svarer normalt innen 1–2 virkedager."
   },
   "services": {
-    "badge": "For små og store bedrifter",
+    "badge": "For små og mellomstore bedrifter",
     "title": "Tjenester",
-    "intro": "SecCloudPath hjelper virksomheter med å bygge dokumenterbare, sikre IT-miljøer: fra Microsoft Defender og enhetsstyring til sikker digital samhandling og generell rådgivning om digital sikkerhet. Målet er tydelig beskyttelse av data og brukere – med mindre friksjon i hverdagen.",
+    "intro": "Våre tjenester bygger struktur og riktig sikkerhetsnivå i Microsoft-miljøet deres. Vi bruker Entra ID, Intune og Microsoft Defender for å redusere risiko og gjøre IT mer forutsigbar. Vi jobber med standarder, dokumentasjon og løpende forbedring – slik at behovet for support blir mindre over tid.",
     "ctaTitle": "Usikker på hvor dere skal starte?",
-    "ctaBody": "Vi hjelper dere å prioritere sikkerhetstiltak som gir mest effekt og skissere praktiske neste steg.",
+    "ctaBody": "Vi tar en kort gjennomgang av miljøet og foreslår en prioritert plan – uforpliktende og uten binding.",
     "items": {
       "iamTitle": "Identitet og tilgangsstyring (IAM)",
-      "iamDesc": "Gjør tilgang forutsigbar og sikker – slik at riktige personer kan jobbe og samhandle, uten unødvendig eksponering av data.",
+      "iamDesc": "Identitet er grunnmuren. Vi setter opp Entra ID slik at riktige personer får riktig tilgang, og uvanlig innlogging og misbruk stoppes tidlig.",
       "iamBullets": [
-        "Livssyklus for brukere og gjesteaksess",
-        "MFA og betinget tilgang",
-        "Rollebasert tilgang og least privilege",
-        "Sikker tilgang til systemer, sky og samhandlingsflater"
+        "MFA og sikker innlogging",
+        "Conditional Access tilpasset risiko",
+        "Skille mellom bruker- og admin-tilganger",
+        "SSO og dokumentert tilgangsmodell"
       ],
       "mdmTitle": "Enheter og sluttpunktsikkerhet (MDM)",
-      "mdmDesc": "Hold PC-er, bærbare og mobile enheter sikre og etterlevende – med styring, oppdateringer og beskyttelse uansett hvor folk jobber.",
+      "mdmDesc": "Vi bruker Intune til å standardisere og sikre PC-er og mobil – fra første oppstilling til avvikling. Vi bygger på utstyret og lisensene dere allerede har, og løfter nivået gradvis til det som passer dere.",
       "mdmBullets": [
-        "Administrasjon og registrering av enheter (Intune)",
-        "Sikkerhetspolicyer, kryptering og herding av konfigurasjon",
-        "Integrasjon med Microsoft Defender for Endpoint",
-        "Oppdateringer, samsvar og løpende status"
+        "Standard oppsett og policyer i Intune",
+        "Oppdateringer og sikkerhetsnivå",
+        "Tapte og stjålne enheter",
+        "Rapportering på etterlevelse"
       ],
       "msTitle": "Microsoft-plattformen og Defender",
-      "msDesc": "Strukturert oppsett av Microsoft 365, Entra og sikkerhetsstacken – med fokus på Defender, identitet og praktisk forvaltning over tid.",
+      "msDesc": "Microsoft Defender gir sterk beskyttelse når det er riktig konfigurert. Vi tilpasser nivået etter risiko og arbeidshverdag – ikke maks innstillinger som skaper friksjon.",
       "msBullets": [
-        "Microsoft 365 og Teams i sikker kontekst",
-        "Microsoft Defender for Endpoint (antivirus, EDR, hardening)",
-        "Defender for Office 365 (e-post og samhandling)",
-        "Intune, Entra ID og sikkerhetsbaseline",
-        "Optimalisering og beste praksis for SMB og større miljøer"
+        "Bedre beskyttelse mot phishing og skadelige vedlegg",
+        "Oppdager uvanlig aktivitet på enheter (Defender for Endpoint)",
+        "Tydelig oppfølging når noe må håndteres",
+        "Samspill med Entra ID og Intune i samme stack"
       ],
       "collabTitle": "Sikker digital samhandling",
-      "collabDesc": "La ansatte samarbeide effektivt i Teams, SharePoint og sky – med tydelige regler for deling, gjesteaksess og beskyttelse av sensitiv informasjon.",
+      "collabDesc": "Ansatte samarbeider trygt i Teams og SharePoint med tydelige regler for deling og gjesteaksess. Når noe virker mistenkelig, hjelper vi med rask vurdering og tiltak – og strammer inn oppsettet i etterkant.",
       "collabBullets": [
         "Trygg bruk av Teams og delingskanaler",
         "Styring av ekstern deling og gjesteaksess",
         "Dataklassifisering og DLP der det gir mening",
-        "Bevisstgjøring og praktiske rutiner for sikker samhandling"
+        "Rutiner som reduserer lekkasje og feildeling"
       ],
       "groundworkTitle": "Rådgivning og digital grunnmur",
-      "groundworkDesc": "Kombinert støtte for virksomheter som trenger praktisk rådgivning om digital sikkerhet og et trygt fundament fra oppstart – skalerbart for små og store team.",
+      "groundworkDesc": "Prioritering, dokumentasjon og praktiske grep – ikke «timebank» i tradisjonell forstand. Vi hjelper dere å velge riktig rekkefølge og å dokumentere slik at drift og revisjon blir enklere.",
       "groundworkBullets": [
-        "Kartlegging av risiko og prioritering av sikkerhetstiltak",
-        "Rådgivning tilpasset størrelse, bransje og modenhet",
+        "Kartlegging av dagens oppsett og risiko",
+        "Prioriterte tiltak tilpasset SMB",
         "Oppsett av nettside og bedriftskonto der det trengs",
         "Microsoft 365 med sikkerhet i tankene fra start",
-        "Kjerneverktøy og langsiktig struktur for digital drift",
-        "Dokumenterbare løsninger som vokser med virksomheten"
+        "Dokumentasjon og rutiner dere faktisk bruker",
+        "Løpende forbedring – ikke bare engangsinnsats"
       ],
       "securityMonitoringTitle": "Sikkerhet, overvåking og hendelseshåndtering",
-      "securityMonitoringDesc": "Kontinuerlig oppfølging av alarmer og signaler fra Defender og plattformen – for å oppdage og håndtere hendelser tidlig.",
+      "securityMonitoringDesc": "Oppfølging av varsler fra Defender og plattformen – med tydelig prioritering. Ved mistenkelig aktivitet får dere hjelp til vurdering og neste steg, og vi justerer oppsettet slik at liknende sjeldnere gjentar seg.",
       "securityMonitoringBullets": [
         "Overvåking av enheter, identitet og e-post",
-        "Oppfølging av sikkerhetsvarsler fra Microsoft Defender",
-        "Grunnleggende trusselbeskyttelse og prioritering av hendelser",
-        "Oppfølging av policy, compliance og forbedringsløp"
+        "Oppfølging av Microsoft Defender-varsler",
+        "Prioritering av hendelser og anbefalte tiltak",
+        "Policy, compliance og forbedringsløp over tid"
       ]
     }
   },
   "about": {
-    "badge": "Digital sikkerhet og IT-rådgivning for bedrifter i Norge",
+    "badge": "Struktur og Microsoft-sikkerhet for SMB i Norge",
     "title": "Om SecCloudPath",
-    "intro": "SecCloudPath hjelper virksomheter med å bygge sikre, strukturerte og moderne IT-miljøer – med vekt på Microsoft-plattformen, Defender og praktisk beskyttelse av brukere, enheter og data. Vi jobber med både små og større organisasjoner som ønsker reell digital sikkerhet uten unødvendig kompleksitet.",
+    "intro": "SecCloudPath hjelper små og mellomstore bedrifter å bygge et sikkert og strukturert IT-miljø på Microsoft-plattformen. Vi er ikke en klassisk helpdesk-fabrikk – vi jobber forebyggende med standarder og kontroll i Entra ID, Intune og Microsoft Defender, slik at dere får færre problemer og lavere risiko over tid.",
     "cardTitle": "En rolig og praktisk partner",
-    "cardBody1": "Vi jobber med bedrifter som vil ha bedre kontroll på sikkerhet, brukere og enheter – uten at IT og sikkerhet blir et evig kriseprosjekt.",
-    "cardBody2": "Resultatet er et miljø som er tryggere å samhandle i, enklere å drifte og bedre rustet mot trusler og endringer.",
+    "cardBody1": "Vi jobber med SMB-er som vil ha struktur først: tydelige standarder, dokumentasjon og mindre avhengighet av løpende «slukking».",
+    "cardBody2": "Resultatet er et miljø som er enklere å forstå for ledelse og ansatte, tryggere i bruk og mer forutsigbart i drift.",
     "approachTitle": "Vår tilnærming",
-    "approachIntro": "Vi prioriterer konkrete sikkerhetsgevinster og tydelig struktur: riktig beskyttelse først – deretter skalerbare mønstre og løpende forbedring.",
+    "approachIntro": "Vi kartlegger dagens oppsett og risiko. Vi etablerer standarder for identitet, enheter og tilgang i Microsoft-miljøet. Vi dokumenterer på et nivå dere kan bruke. Vi følger opp og forbedrer løpende – slik at strukturen varer.",
     "pillars": {
       "practicalTitle": "Praktiske løsninger",
-      "practicalDesc": "Tydelige steg, minst mulig forstyrrelse og tiltak som gir merkbart tryggere drift.",
+      "practicalDesc": "Tydelige steg og leveranser dere kan etterprøve – uten unødvendig kompleksitet.",
       "securityTitle": "Sikkerhet i forkant",
-      "securityDesc": "Defender, tilgangskontroll og sikker samhandling tilpasset hvordan folk faktisk jobber.",
+      "securityDesc": "Vi bruker Microsoft Defender og identitetskontroller i Entra ID til å stoppe det vanlige før det blir hendelser.",
       "structureTitle": "Struktur",
-      "structureDesc": "Konsekvente standarder for brukere, enheter og data – mindre rot og færre sårbarheter over tid.",
+      "structureDesc": "Tydelige standarder i Entra ID og Intune gir færre avvik, enklere drift og lavere total kost over tid.",
       "scaleTitle": "Skalerbarhet",
-      "scaleDesc": "En sikkerhetsarkitektur som tåler vekst, nye ansatte og nye krav – fra SMB til større organisasjoner."
+      "scaleDesc": "Samme prinsipper fungerer når dere vokser: standardisert onboarding, tydelige roller og kontroll på nye enheter."
     },
     "partnerTitle": "En pålitelig partner for digital sikkerhet",
-    "partnerBody1": "Dere får tydelig rådgivning, dokumentasjon dere kan stole på og et miljø som er bygget for å tåle både hverdag og hendelser.",
-    "partnerBody2": "Enten dere etablerer sikkerhet fra bunnen av eller forbedrer dagens oppsett, fokuserer vi på varig verdi og målbar risikoreduksjon."
+    "partnerBody1": "Dere får rådgivning som er forankret i Microsoft management-plattformen – Entra ID, Intune og Defender – og dokumentasjon dere kan stole på.",
+    "partnerBody2": "Ta en uforpliktende prat om deres miljø og konkrete neste steg. Vi svarer normalt innen 1–2 virkedager."
   },
   "contact": {
     "badge": "La oss snakke om sikkerhet og IT-behovene deres",
