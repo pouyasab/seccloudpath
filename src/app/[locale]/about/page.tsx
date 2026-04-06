@@ -81,7 +81,9 @@ export default async function AboutPage({
             <ScrollReveal delay={80} className="lg:col-span-7">
               <Card variant="gradientBorder" padding="lg" title={m.about.cardTitle}>
                 <p>{m.about.cardBody1}</p>
-                <p className="mt-3">{m.about.cardBody2}</p>
+                {m.about.cardBody2 ? (
+                  <p className="mt-3">{m.about.cardBody2}</p>
+                ) : null}
               </Card>
             </ScrollReveal>
           </div>

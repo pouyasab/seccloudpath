@@ -62,84 +62,83 @@
   "services": {
     "badge": "For små og mellomstore bedrifter",
     "title": "Tjenester",
-    "intro": "Våre tjenester bygger struktur og riktig sikkerhetsnivå i Microsoft-miljøet deres. Vi bruker Entra ID, Intune og Microsoft Defender for å redusere risiko og gjøre IT mer forutsigbar. Vi jobber med standarder, dokumentasjon og løpende forbedring – slik at behovet for support blir mindre over tid.",
+    "intro": "Vi bygger et sikkert og strukturert IT-fundament som reduserer sårbarheter og gir dere kontroll fra starten. Med tydelige standarder, god dokumentasjon og kontinuerlig forbedring reduserer vi risiko og gjør driften mer forutsigbar, med mindre behov for support over tid.",
     "ctaTitle": "Usikker på hvor dere skal starte?",
     "ctaBody": "Vi tar en kort gjennomgang av miljøet og foreslår en prioritert plan – uforpliktende og uten binding.",
     "items": {
-      "iamTitle": "Identitet og tilgangsstyring (IAM)",
-      "iamDesc": "Identitet er grunnmuren. Vi setter opp Entra ID slik at riktige personer får riktig tilgang, og uvanlig innlogging og misbruk stoppes tidlig.",
+      "iamTitle": "Identitet og tilgang",
+      "iamDesc": "Riktig tilgang til riktig person og kontroll når noe avviker. Vi etablerer en struktur som reduserer risiko og gir oversikt.",
       "iamBullets": [
-        "MFA og sikker innlogging",
-        "Conditional Access tilpasset risiko",
-        "Skille mellom bruker- og admin-tilganger",
-        "SSO og dokumentert tilgangsmodell"
+        "Sikker innlogging og flerfaktorbeskyttelse",
+        "Tilgangsstyring tilpasset risiko",
+        "Skille mellom bruker og adminroller",
+        "Dokumentert og oversiktlig tilgangsmodell"
       ],
-      "mdmTitle": "Enheter og sluttpunktsikkerhet (MDM)",
-      "mdmDesc": "Vi bruker Intune til å standardisere og sikre PC-er og mobil – fra første oppstilling til avvikling. Vi bygger på utstyret og lisensene dere allerede har, og løfter nivået gradvis til det som passer dere.",
+      "mdmTitle": "Enheter og sluttpunktsikkerhet",
+      "mdmDesc": "Alle enheter settes opp likt, sikres og følges opp gjennom hele livssyklusen fra oppstart til avvikling.",
       "mdmBullets": [
-        "Standard oppsett og policyer i Intune",
-        "Oppdateringer og sikkerhetsnivå",
-        "Tapte og stjålne enheter",
-        "Rapportering på etterlevelse"
+        "Standardisert oppsett og policyer",
+        "Oppdateringer og riktig sikkerhetsnivå",
+        "Håndtering av tapte og stjålne enheter",
+        "Oversikt over etterlevelse og status"
       ],
-      "msTitle": "Microsoft-plattformen og Defender",
-      "msDesc": "Microsoft Defender gir sterk beskyttelse når det er riktig konfigurert. Vi tilpasser nivået etter risiko og arbeidshverdag – ikke maks innstillinger som skaper friksjon.",
+      "msTitle": "Plattform og beskyttelse",
+      "msDesc": "Sikkerhet som fungerer i praksis. Vi tilpasser nivået slik at dere er godt beskyttet uten unødvendig friksjon.",
       "msBullets": [
-        "Bedre beskyttelse mot phishing og skadelige vedlegg",
-        "Oppdager uvanlig aktivitet på enheter (Defender for Endpoint)",
-        "Tydelig oppfølging når noe må håndteres",
-        "Samspill med Entra ID og Intune i samme stack"
+        "Beskyttelse mot phishing og skadelig innhold",
+        "Oppdagelse av uvanlig aktivitet",
+        "Tydelig oppfølging ved hendelser",
+        "Helhetlig samspill i plattformen"
       ],
-      "collabTitle": "Sikker digital samhandling",
-      "collabDesc": "Ansatte samarbeider trygt i Teams og SharePoint med tydelige regler for deling og gjesteaksess. Når noe virker mistenkelig, hjelper vi med rask vurdering og tiltak – og strammer inn oppsettet i etterkant.",
+      "collabTitle": "Sikker samhandling",
+      "collabDesc": "Ansatte kan samarbeide trygt med kontroll på deling, tilgang og informasjon.",
       "collabBullets": [
-        "Trygg bruk av Teams og delingskanaler",
+        "Trygg bruk av samhandlingsverktøy",
         "Styring av ekstern deling og gjesteaksess",
-        "Dataklassifisering og DLP der det gir mening",
-        "Rutiner som reduserer lekkasje og feildeling"
+        "Dataklassifisering der det gir verdi",
+        "Rutiner som reduserer feildeling og lekkasje"
       ],
       "groundworkTitle": "Rådgivning og digital grunnmur",
-      "groundworkDesc": "Prioritering, dokumentasjon og praktiske grep – ikke «timebank» i tradisjonell forstand. Vi hjelper dere å velge riktig rekkefølge og å dokumentere slik at drift og revisjon blir enklere.",
+      "groundworkDesc": "Vi hjelper dere å bygge riktig fra starten og forbedre underveis. Fokus på det som faktisk gir effekt.",
       "groundworkBullets": [
-        "Kartlegging av dagens oppsett og risiko",
-        "Prioriterte tiltak tilpasset SMB",
-        "Oppsett av nettside og bedriftskonto der det trengs",
-        "Microsoft 365 med sikkerhet i tankene fra start",
-        "Dokumentasjon og rutiner dere faktisk bruker",
-        "Løpende forbedring – ikke bare engangsinnsats"
+        "Kartlegging av oppsett og risiko",
+        "Prioriterte tiltak tilpasset virksomheten",
+        "Etablering av grunnleggende struktur og oppsett",
+        "Dokumentasjon og rutiner som brukes i praksis",
+        "Kontinuerlig forbedring over tid"
       ],
-      "securityMonitoringTitle": "Sikkerhet, overvåking og hendelseshåndtering",
-      "securityMonitoringDesc": "Oppfølging av varsler fra Defender og plattformen – med tydelig prioritering. Ved mistenkelig aktivitet får dere hjelp til vurdering og neste steg, og vi justerer oppsettet slik at liknende sjeldnere gjentar seg.",
+      "securityMonitoringTitle": "Overvåking og hendelseshåndtering",
+      "securityMonitoringDesc": "Avvik oppdages tidlig og håndteres strukturert. Dere får tydelige råd om hva som bør gjøres og hvorfor.",
       "securityMonitoringBullets": [
-        "Overvåking av enheter, identitet og e-post",
-        "Oppfølging av Microsoft Defender-varsler",
-        "Prioritering av hendelser og anbefalte tiltak",
-        "Policy, compliance og forbedringsløp over tid"
+        "Overvåking av identitet, enheter og e-post",
+        "Oppfølging av sikkerhetsvarsler",
+        "Prioritering og anbefalte tiltak",
+        "Løpende forbedring av sikkerhetsnivå"
       ]
     }
   },
   "about": {
     "badge": "Struktur og Microsoft-sikkerhet for SMB i Norge",
     "title": "Om SecCloudPath",
-    "intro": "SecCloudPath hjelper små og mellomstore bedrifter å bygge et sikkert og strukturert IT-miljø på Microsoft-plattformen. Vi er ikke en klassisk helpdesk-fabrikk – vi jobber forebyggende med standarder og kontroll i Entra ID, Intune og Microsoft Defender, slik at dere får færre problemer og lavere risiko over tid.",
+    "intro": "SecCloudPath bistår små og mellomstore virksomheter med å bygge en sikker og robust IT-plattform. Vår tilnærming er strukturert og forebyggende med tydelige standarder og kontroll som reduserer kompleksitet, styrker sikkerheten og gir en mer stabil drift.",
     "cardTitle": "En rolig og praktisk partner",
-    "cardBody1": "Vi jobber med SMB-er som vil ha struktur først: tydelige standarder, dokumentasjon og mindre avhengighet av løpende «slukking».",
-    "cardBody2": "Resultatet er et miljø som er enklere å forstå for ledelse og ansatte, tryggere i bruk og mer forutsigbart i drift.",
+    "cardBody1": "Vi har erfaring fra både privat og offentlig sektor, og vet hva som kreves for å etablere løsninger som er sikre, praktiske og fungerer over tid.",
+    "cardBody2": "",
     "approachTitle": "Vår tilnærming",
-    "approachIntro": "Vi kartlegger dagens oppsett og risiko. Vi etablerer standarder for identitet, enheter og tilgang i Microsoft-miljøet. Vi dokumenterer på et nivå dere kan bruke. Vi følger opp og forbedrer løpende – slik at strukturen varer.",
+    "approachIntro": "Vi starter med å forstå dagens oppsett og risiko. Deretter etablerer vi en struktur for identitet, enheter og tilgang med tydelige standarder og dokumentasjon som faktisk brukes. Løsningen følges opp og forbedres løpende, slik at den fungerer over tid, ikke bare ved oppstart.",
     "pillars": {
       "practicalTitle": "Praktiske løsninger",
-      "practicalDesc": "Tydelige steg og leveranser dere kan etterprøve – uten unødvendig kompleksitet.",
+      "practicalDesc": "Tydelige leveranser og konkrete tiltak dere kan forstå og etterprøve uten unødvendig kompleksitet.",
       "securityTitle": "Sikkerhet i forkant",
-      "securityDesc": "Vi bruker Microsoft Defender og identitetskontroller i Entra ID til å stoppe det vanlige før det blir hendelser.",
-      "structureTitle": "Struktur",
-      "structureDesc": "Tydelige standarder i Entra ID og Intune gir færre avvik, enklere drift og lavere total kost over tid.",
-      "scaleTitle": "Skalerbarhet",
-      "scaleDesc": "Samme prinsipper fungerer når dere vokser: standardisert onboarding, tydelige roller og kontroll på nye enheter."
+      "securityDesc": "De vanligste risikoene håndteres før de blir hendelser, gjennom riktig oppsett av identitet og beskyttelse.",
+      "structureTitle": "Struktur som gir kontroll",
+      "structureDesc": "Standarder reduserer avvik, forenkler drift og gir lavere kostnader over tid.",
+      "scaleTitle": "Skalerbart fra starten",
+      "scaleDesc": "Samme prinsipper fungerer når dere vokser med strukturert onboarding, tydelige roller og kontroll på nye enheter."
     },
     "partnerTitle": "En pålitelig partner for digital sikkerhet",
-    "partnerBody1": "Dere får rådgivning som er forankret i Microsoft management-plattformen – Entra ID, Intune og Defender – og dokumentasjon dere kan stole på.",
-    "partnerBody2": "Ta en uforpliktende prat om deres miljø og konkrete neste steg. Vi svarer normalt innen 1–2 virkedager."
+    "partnerBody1": "Dere får rådgivning som er forankret i moderne skybaserte løsninger, kombinert med dokumentasjon og struktur dere kan stole på i det daglige.",
+    "partnerBody2": "Ta en uforpliktende prat om deres miljø og neste steg. Vi svarer normalt innen 1–2 virkedager."
   },
   "contact": {
     "badge": "La oss snakke om sikkerhet og IT-behovene deres",

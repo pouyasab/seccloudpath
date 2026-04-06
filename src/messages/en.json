@@ -62,84 +62,83 @@
   "services": {
     "badge": "For small and medium-sized businesses",
     "title": "Services",
-    "intro": "Our services build structure and the right security level in your Microsoft environment. We use Entra ID, Intune, and Microsoft Defender to reduce risk and make IT more predictable. We work with standards, documentation, and continuous improvement—so support needs decrease over time.",
+    "intro": "We build a secure, structured IT foundation that reduces vulnerabilities and gives you control from the start. With clear standards, solid documentation, and continuous improvement, we reduce risk and make operations more predictable—with less need for support over time.",
     "ctaTitle": "Not sure where to start?",
     "ctaBody": "We’ll do a short review of your environment and propose a prioritized plan—no obligation and no lock-in.",
     "items": {
-      "iamTitle": "Identity & Access Management (IAM)",
-      "iamDesc": "Identity is the foundation. We configure Entra ID so the right people get the right access—and unusual sign-ins and misuse are stopped early.",
+      "iamTitle": "Identity and access",
+      "iamDesc": "The right access for the right person—and control when something deviates. We establish a structure that reduces risk and provides clear visibility.",
       "iamBullets": [
-        "MFA and secure sign-in",
-        "Conditional Access aligned to risk",
-        "Separation of user and admin access",
-        "SSO and a documented access model"
+        "Secure sign-in and multi-factor protection",
+        "Access management aligned to risk",
+        "Separation of user and admin roles",
+        "A documented, easy-to-follow access model"
       ],
-      "mdmTitle": "Devices & endpoint security (MDM)",
-      "mdmDesc": "We use Intune to standardize and secure PCs and mobile—from first setup to retirement. We build on the hardware and licenses you already have and raise the bar gradually to what fits you.",
+      "mdmTitle": "Devices and endpoint security",
+      "mdmDesc": "All devices are set up consistently, secured, and managed through the full lifecycle—from onboarding to retirement.",
       "mdmBullets": [
-        "Standard setup and policies in Intune",
-        "Updates and security levels",
-        "Lost and stolen devices",
-        "Compliance reporting"
+        "Standardized setup and policies",
+        "Updates and the right security level",
+        "Handling of lost and stolen devices",
+        "Overview of compliance and status"
       ],
-      "msTitle": "Microsoft platform & Defender",
-      "msDesc": "Microsoft Defender is strong protection when configured correctly. We tune the level to risk and daily work—not maximum settings that create friction.",
+      "msTitle": "Platform and protection",
+      "msDesc": "Security that works in practice. We tune the level so you are well protected without unnecessary friction.",
       "msBullets": [
-        "Better protection against phishing and malicious attachments",
-        "Detects unusual activity on devices (Defender for Endpoint)",
-        "Clear follow-up when something must be handled",
-        "Aligned with Entra ID and Intune in one stack"
+        "Protection against phishing and harmful content",
+        "Detection of unusual activity",
+        "Clear follow-up when incidents occur",
+        "Coherent interplay across the platform"
       ],
-      "collabTitle": "Secure digital collaboration",
-      "collabDesc": "People collaborate safely in Teams and SharePoint with clear rules for sharing and guests. When something looks suspicious, we help assess and act—and tighten the setup afterward.",
+      "collabTitle": "Secure collaboration",
+      "collabDesc": "Employees can collaborate safely—with control over sharing, access, and information.",
       "collabBullets": [
-        "Safe use of Teams and sharing channels",
-        "Governance of external sharing and guests",
-        "Data classification and DLP where it adds value",
-        "Routines that reduce leakage and mis-sharing"
+        "Safe use of collaboration tools",
+        "Governance of external sharing and guest access",
+        "Data classification where it adds value",
+        "Routines that reduce mis-sharing and leakage"
       ],
       "groundworkTitle": "Advisory and digital foundation",
-      "groundworkDesc": "Priorities, documentation, and practical steps—not a traditional “hour bank” model. We help you choose the right order and document so operations and audits get easier.",
+      "groundworkDesc": "We help you build correctly from the start and improve along the way—focused on what actually delivers impact.",
       "groundworkBullets": [
-        "Review of current setup and risk",
-        "Prioritized measures tailored to SMBs",
-        "Website and business account setup where needed",
-        "Microsoft 365 with security in mind from the start",
-        "Documentation and routines you actually use",
-        "Continuous improvement—not one-off effort"
+        "Review of setup and risk",
+        "Prioritized measures tailored to the organization",
+        "Establishing foundational structure and setup",
+        "Documentation and routines used in practice",
+        "Continuous improvement over time"
       ],
-      "securityMonitoringTitle": "Security, monitoring, and incident response",
-      "securityMonitoringDesc": "Follow-up on alerts from Defender and the platform—with clear prioritization. For suspicious activity you get help to assess next steps, and we adjust the setup so similar issues repeat less often.",
+      "securityMonitoringTitle": "Monitoring and incident handling",
+      "securityMonitoringDesc": "Issues are detected early and handled in a structured way. You get clear guidance on what to do and why.",
       "securityMonitoringBullets": [
-        "Monitoring of devices, identity, and email",
-        "Follow-up on Microsoft Defender alerts",
-        "Incident prioritization and recommended actions",
-        "Policy, compliance, and improvement over time"
+        "Monitoring of identity, devices, and email",
+        "Follow-up on security alerts",
+        "Prioritization and recommended actions",
+        "Ongoing improvement of security posture"
       ]
     }
   },
   "about": {
     "badge": "Structure and Microsoft security for SMBs in Norway",
     "title": "About SecCloudPath",
-    "intro": "SecCloudPath helps small and medium-sized businesses build a secure, structured IT environment on the Microsoft platform. We are not a classic helpdesk factory—we work preventively with standards and control in Entra ID, Intune, and Microsoft Defender, so you get fewer problems and lower risk over time.",
+    "intro": "SecCloudPath supports small and medium-sized organizations in building a secure, robust IT platform. Our approach is structured and preventive—with clear standards and control that reduce complexity, strengthen security, and enable more stable operations.",
     "cardTitle": "A calm, practical partner",
-    "cardBody1": "We work with SMBs that want structure first: clear standards, documentation, and less reliance on ongoing firefighting.",
-    "cardBody2": "The result is an environment that is easier for leadership and staff to understand, safer to use, and more predictable to operate.",
+    "cardBody1": "We have experience from both the private and public sectors, and we know what it takes to establish solutions that are secure, practical, and sustainable over time.",
+    "cardBody2": "",
     "approachTitle": "Our approach",
-    "approachIntro": "We review your current setup and risk. We establish standards for identity, devices, and access in your Microsoft environment. We document at a level you can use. We follow up and improve continuously—so the structure lasts.",
+    "approachIntro": "We begin by understanding your current setup and risk. Then we establish a structure for identity, devices, and access—with clear standards and documentation that people actually use. The solution is followed up and improved continuously so it works over time, not only at go-live.",
     "pillars": {
       "practicalTitle": "Practical solutions",
-      "practicalDesc": "Clear steps and deliverables you can verify—without unnecessary complexity.",
+      "practicalDesc": "Clear deliverables and concrete measures you can understand and verify—without unnecessary complexity.",
       "securityTitle": "Security up front",
-      "securityDesc": "We use Microsoft Defender and identity controls in Entra ID to stop common threats before they become incidents.",
-      "structureTitle": "Structure",
-      "structureDesc": "Clear standards in Entra ID and Intune mean fewer deviations, simpler operations, and lower total cost over time.",
-      "scaleTitle": "Scalability",
-      "scaleDesc": "The same principles work as you grow: standardized onboarding, clear roles, and control over new devices."
+      "securityDesc": "The most common risks are handled before they become incidents—through the right setup of identity and protection.",
+      "structureTitle": "Structure that gives control",
+      "structureDesc": "Standards reduce deviations, simplify operations, and lower costs over time.",
+      "scaleTitle": "Scalable from day one",
+      "scaleDesc": "The same principles work as you grow—with structured onboarding, clear roles, and control over new devices."
     },
     "partnerTitle": "A reliable partner for digital security",
-    "partnerBody1": "You get guidance grounded in the Microsoft management stack—Entra ID, Intune, and Defender—and documentation you can rely on.",
-    "partnerBody2": "Have an informal conversation about your environment and concrete next steps. We usually respond within 1–2 business days."
+    "partnerBody1": "You get guidance grounded in modern cloud-based solutions, combined with documentation and structure you can rely on day to day.",
+    "partnerBody2": "Have an informal conversation about your environment and next steps. We usually respond within 1–2 business days."
   },
   "contact": {
     "badge": "Let’s talk about security and your IT needs",
