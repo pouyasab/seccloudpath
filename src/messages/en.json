@@ -15,7 +15,7 @@
   },
   "home": {
     "heroTitle": "Structure, security, and control—built on the Microsoft platform",
-    "heroSubtitle": "We help small and medium-sized businesses gain clarity and the right level of security with Entra ID, Intune, and Microsoft Defender. We work preventively and systematically—not like a traditional helpdesk queue—so the environment is easier to run and support needs decrease over time.",
+    "heroSubtitle": "We help small and medium sized businesses gain clarity and the right level of security with Entra ID, Intune, and Microsoft Defender. We work preventively and systematically, not like a traditional helpdesk queue, so the environment is easier to run and support needs decrease over time.",
     "valueTitle": "What you gain",
     "foundationTitle": "Support from the very beginning",
     "foundationBody": "From day one we put the essentials in place with clear standards: a secure foundation built correctly first, not patched in a hurry later.",
@@ -23,7 +23,7 @@
       "Website and web presence where needed",
       "Business account and baseline setup",
       "Microsoft 365 with a secure baseline: Entra ID, MFA, and admin protection",
-      "PCs and mobile with Intune—policies, updates, and the right level of Defender"
+      "PCs and mobile with Intune, policies, updates, and the right level of Defender"
     ],
     "foundationStepLabels": [
       "First …",
@@ -33,49 +33,49 @@
     ],
     "value": {
       "devicesTitle": "Control over devices",
-      "devicesDesc": "Devices are set up consistently and managed centrally with Intune—with clear standards wherever people work.",
+      "devicesDesc": "Devices are set up consistently and managed centrally with Intune, with clear standards wherever people work.",
       "securityTitle": "Stronger security",
-      "securityDesc": "Entra ID and Microsoft Defender used correctly from the start—to reduce risk without making daily work heavy.",
+      "securityDesc": "Entra ID and Microsoft Defender used correctly from the start, to reduce risk without making daily work heavy.",
       "usersTitle": "Efficient administration",
-      "usersDesc": "Less manual work, fewer deviations, and faster onboarding and offboarding—lower operating cost over time when the structure is in place.",
+      "usersDesc": "Less manual work, fewer deviations, and faster onboarding and offboarding, lower operating cost over time when the structure is in place.",
       "scaleTitle": "Structure that pays off",
-      "scaleDesc": "Clear standards mean fewer exceptions and less risk—lower total cost and more predictable operations over time.",
-      "monitoringTitle": "Ongoing follow-up",
-      "monitoringDesc": "Alerts and light routines in Defender and the platform—issues are caught early and documented.",
+      "scaleDesc": "Clear standards mean fewer exceptions and less risk, lower total cost and more predictable operations over time.",
+      "monitoringTitle": "Ongoing follow up",
+      "monitoringDesc": "Alerts and light routines in Defender and the platform, issues are caught early and documented.",
       "standardsTitle": "Clear standards",
-      "standardsDesc": "Shared practices for access, devices, and collaboration—less clutter, simpler audits, and fewer day-to-day errors."
+      "standardsDesc": "Shared practices for access, devices, and collaboration, less clutter, simpler audits, and fewer day to day errors."
     },
     "whyTitle": "Why structure matters",
-    "whyLead": "Structure in Entra ID and Intune means less firefighting and a more predictable day-to-day—before cost and risk grow.",
-    "whyBody": "Small and medium-sized businesses need more than extra “firefighters”: you need standards, documentation, and continuous improvement. That makes IT easier to understand, safer to use, and cheaper to run over time.",
+    "whyLead": "Structure in Entra ID and Intune means less firefighting and a more predictable day to day, before cost and risk grow.",
+    "whyBody": "Small and medium sized businesses need more than extra “firefighters”: you need standards, documentation, and continuous improvement. That makes IT easier to understand, safer to use, and cheaper to run over time.",
     "whyPoints": {
       "riskTitle": "Less firefighting",
       "riskDesc": "Fewer escalations and deviations when roles, access, and devices are standardized and documented.",
       "timeTitle": "Lower risk",
-      "timeDesc": "Better handling of lost devices or suspicious sign-ins—with Entra ID and Defender in place.",
+      "timeDesc": "Better handling of lost devices or suspicious sign ins, with Entra ID and Defender in place.",
       "controlTitle": "Lower total cost",
-      "controlDesc": "Predictable operations and less manual work when the foundation is right—not constant rush per incident."
+      "controlDesc": "Predictable operations and less manual work when the foundation is right, not constant rush per incident."
     },
     "ctaTitle": "Ready for better structure and security?",
     "ctaBody": "We’ll have an informal conversation and suggest concrete next steps based on your environment. We usually respond within 1–2 business days."
   },
   "services": {
-    "badge": "For small and medium-sized businesses",
+    "badge": "For small and medium sized businesses",
     "title": "Services",
-    "intro": "We build a secure, structured IT foundation that reduces vulnerabilities and gives you control from the start. With clear standards, solid documentation, and continuous improvement, we reduce risk and make operations more predictable—with less need for support over time.",
+    "intro": "We build a secure, structured IT foundation that reduces vulnerabilities and gives you control from the start. With clear standards, solid documentation, and continuous improvement, we reduce risk and make operations more predictable, with less need for support over time.",
     "ctaTitle": "Not sure where to start?",
-    "ctaBody": "We’ll do a short review of your environment and propose a prioritized plan—no obligation and no lock-in.",
+    "ctaBody": "We’ll do a short review of your environment and propose a prioritized plan, no obligation and no lock in.",
     "items": {
       "iamTitle": "Identity and access",
-      "iamDesc": "The right access for the right person—and control when something deviates. We establish a structure that reduces risk and provides clear visibility.",
+      "iamDesc": "The right access for the right person, and control when something deviates. We establish a structure that reduces risk and provides clear visibility.",
       "iamBullets": [
-        "Secure sign-in and multi-factor protection",
+        "Secure sign in and multi factor protection",
         "Access management aligned to risk",
         "Separation of user and admin roles",
-        "A documented, easy-to-follow access model"
+        "A documented, easy to follow access model"
       ],
       "mdmTitle": "Devices and endpoint security",
-      "mdmDesc": "All devices are set up consistently, secured, and managed through the full lifecycle—from onboarding to retirement.",
+      "mdmDesc": "All devices are set up consistently, secured, and managed through the full lifecycle, from onboarding to retirement.",
       "mdmBullets": [
         "Standardized setup and policies",
         "Updates and the right security level",
@@ -87,19 +87,19 @@
       "msBullets": [
         "Protection against phishing and harmful content",
         "Detection of unusual activity",
-        "Clear follow-up when incidents occur",
+        "Clear follow up when incidents occur",
         "Coherent interplay across the platform"
       ],
       "collabTitle": "Secure collaboration",
-      "collabDesc": "Employees can collaborate safely—with control over sharing, access, and information.",
+      "collabDesc": "Employees can collaborate safely, with control over sharing, access, and information.",
       "collabBullets": [
         "Safe use of collaboration tools",
         "Governance of external sharing and guest access",
         "Data classification where it adds value",
-        "Routines that reduce mis-sharing and leakage"
+        "Routines that reduce mis sharing and leakage"
       ],
       "groundworkTitle": "Advisory and digital foundation",
-      "groundworkDesc": "We help you build correctly from the start and improve along the way—focused on what actually delivers impact.",
+      "groundworkDesc": "We help you build correctly from the start and improve along the way, focused on what actually delivers impact.",
       "groundworkBullets": [
         "Review of setup and risk",
         "Prioritized measures tailored to the organization",
@@ -111,7 +111,7 @@
       "securityMonitoringDesc": "Issues are detected early and handled in a structured way. You get clear guidance on what to do and why.",
       "securityMonitoringBullets": [
         "Monitoring of identity, devices, and email",
-        "Follow-up on security alerts",
+        "Follow up on security alerts",
         "Prioritization and recommended actions",
         "Ongoing improvement of security posture"
       ]
@@ -120,24 +120,24 @@
   "about": {
     "badge": "Structure and Microsoft security for SMBs in Norway",
     "title": "About SecCloudPath",
-    "intro": "SecCloudPath supports small and medium-sized organizations in building a secure, robust IT platform. Our approach is structured and preventive—with clear standards and control that reduce complexity, strengthen security, and enable more stable operations.",
+    "intro": "SecCloudPath supports small and medium sized organizations in building a secure, robust IT platform. Our approach is structured and preventive, with clear standards and control that reduce complexity, strengthen security, and enable more stable operations.",
     "cardTitle": "A calm, practical partner",
     "cardBody1": "We have experience from both the private and public sectors, and we know what it takes to establish solutions that are secure, practical, and sustainable over time.",
     "cardBody2": "",
     "approachTitle": "Our approach",
-    "approachIntro": "We begin by understanding your current setup and risk. Then we establish a structure for identity, devices, and access—with clear standards and documentation that people actually use. The solution is followed up and improved continuously so it works over time, not only at go-live.",
+    "approachIntro": "We begin by understanding your current setup and risk. Then we establish a structure for identity, devices, and access, with clear standards and documentation that people actually use. The solution is followed up and improved continuously so it works over time, not only at go live.",
     "pillars": {
       "practicalTitle": "Practical solutions",
-      "practicalDesc": "Clear deliverables and concrete measures you can understand and verify—without unnecessary complexity.",
+      "practicalDesc": "Clear deliverables and concrete measures you can understand and verify, without unnecessary complexity.",
       "securityTitle": "Security up front",
-      "securityDesc": "The most common risks are handled before they become incidents—through the right setup of identity and protection.",
+      "securityDesc": "The most common risks are handled before they become incidents, through the right setup of identity and protection.",
       "structureTitle": "Structure that gives control",
       "structureDesc": "Standards reduce deviations, simplify operations, and lower costs over time.",
       "scaleTitle": "Scalable from day one",
-      "scaleDesc": "The same principles work as you grow—with structured onboarding, clear roles, and control over new devices."
+      "scaleDesc": "The same principles work as you grow, with structured onboarding, clear roles, and control over new devices."
     },
     "partnerTitle": "A reliable partner for digital security",
-    "partnerBody1": "You get guidance grounded in modern cloud-based solutions, combined with documentation and structure you can rely on day to day.",
+    "partnerBody1": "You get guidance grounded in modern cloud based solutions, combined with documentation and structure you can rely on day to day.",
     "partnerBody2": "Have an informal conversation about your environment and next steps. We usually respond within 1–2 business days."
   },
   "contact": {
